@@ -1,0 +1,9 @@
+.centreDiv {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+
+#labmembers {
+    padding-bottom: 2.5%;
+}

@@ -1,17 +1,240 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Hiplab</title>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="assets/css/styles.css">
+  <link rel="stylesheet" href="assets/css/slideshow.css">
+  <link rel="stylesheet" href="assets/css/landing.css">
+  <link rel="stylesheet" href="assets/css/grid-layout.css">
+  <title>Hiplab</title>
 </head>
 <body>
-    <h1>Human Information Processing Lab</h1>
-    <h2>Department of Experimental Psychology</h2>
-    <h3>University of Oxford</h3>
-    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur voluptatibus perspiciatis provident cupiditate reiciendis debitis, delectus at voluptate, placeat natus illum quos accusamus, cumque labore fugit minus repudiandae fugiat adipisci?</p>
-    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nam natus dignissimos atque non adipisci eum repudiandae cupiditate blanditiis earum laborum officia quas ipsum mollitia quae, nisi quo iusto quidem accusamus.</p>
-    <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Hic esse deleniti recusandae ut, repudiandae ducimus quod odit temporibus sunt natus suscipit fugit nam fugiat impedit quasi, labore ex nulla quaerat.</p>
-    
+
+  <!-- Top Navbar -->
+  <nav>
+    <div class="container">
+      <ul id="nav-list">
+        <li><a href="index.html">Home</a></li>
+        <li><a href="html/pages/about.html">About</a></li>
+        <li><a href="html/pages/wiki.html">Wiki</a></li>
+        <li><a href="html/pages/research.html">Research</a></li>
+        <li><a href="html/pages/resources.html">Resources</a></li>
+        <li><a href="html/pages/contact.html">Contact</a></li>
+      </ul>
+    </div>
+  </nav>
+
+  <!-- Hero Section -->
+  <header>
+    <div class="container">
+      <h1>HIPLab - Handbook and Wiki</h1>
+      <h2>Department of Experimental Psychology</h2>
+      <h3>University of Oxford</h3>
+
+      <div class="slideshow-container">
+        <div class="slide fade">
+          <img src="assets/imgs/blockout.png" alt="Image 1">
+        </div>
+        <div class="slide fade">
+          <img src="assets/imgs/blockout2.png" alt="Image 2">
+        </div>
+        <div class="slide fade">
+          <img src="assets/imgs/blockout3.png" alt="Image 3">
+        </div>
+      </div>
+
+      <div style="text-align:center">
+        <span class="dot" onclick="currentSlide(1)"></span>
+        <span class="dot" onclick="currentSlide(2)"></span>
+        <span class="dot" onclick="currentSlide(3)"></span>
+      </div>
+
+    </div>
+  </header>
+
+  <!-- Main Content Section -->
+  <main>
+    <div class="container">
+      <!-- Your main content goes here -->
+      <section id="learn-more">
+        <div class="centreDiv"><h2 id="labmembers">Lab Members</h2></div>
+
+        <div class="item-grid" style="padding: 2%;">
+          <a href="html/people/template.html">
+            <div class="item-container">
+              <img src="assets/imgs/profiles/default.png" alt="Profile 1">
+              <div class="caption">
+                  <p>Chris Summerfield</p>
+                  <p>Principal Investigator</p>
+              </div>
+            </div>
+          </a>
+        </div>
+        
+        <div class="item-grid">
+          <a href="html/people/template.html">
+            <div class="item-container">
+              <img src="assets/imgs/profiles/default.png" alt="Profile 1">
+              <div class="caption">
+                <p>Jessica Thompson</p>
+                <p>Postdoc</p>
+              </div>
+            </div>
+          </a>
+          
+          <a href="html/people/template.html">
+            <div class="item-container">
+              <img src="assets/imgs/profiles/default.png" alt="Profile 2">
+              <div class="caption">
+                <p>Mira Dumbalska</p>
+                <p>Postdoc</p>
+              </div>
+            </div>
+          </a>
+
+          <a href="html/people/template.html">
+            <div class="item-container">
+              <img src="assets/imgs/profiles/default.png" alt="Profile 3">
+              <div class="caption">
+                <p>Leonie Glitz</p>
+                <p>PhD Student</p>
+              </div>
+            </div>
+          </a>
+            
+          <a href="html/people/template.html">
+            <div class="item-container">
+              <img src="assets/imgs/profiles/default.png" alt="Profile 3">
+              <div class="caption">
+                <p>Lukas Braun</p>
+                <p>PhD Student</p>
+              </div>
+            </div>
+          </a>
+            
+          <a href="html/people/template.html">
+            <div class="item-container">
+              <img src="assets/imgs/profiles/default.png" alt="Profile 3">
+              <div class="caption">
+              <p>Carla Zoe Cremer</p>
+              <p>PhD Student</p>
+              </div>
+            </div>
+          </a>
+            
+          <a href="html/people/template.html">
+            <div class="item-container">
+              <img src="assets/imgs/profiles/default.png" alt="Profile 3">
+              <div class="caption">
+              <p>Ellie Holton</p>
+              <p>PhD Student</p>
+              </div>
+            </div>
+          </a>
+            
+          <a href="html/people/template.html">
+            <div class="item-container">
+              <img src="assets/imgs/profiles/default.png" alt="Profile 3">
+              <div class="caption">
+              <p>Jirko Rubruck</p>
+              <p>PhD Student</p>
+              </div>
+            </div>
+          </a>
+            
+          <a href="html/people/template.html">
+            <div class="item-container">
+              <img src="assets/imgs/profiles/default.png" alt="Profile 3">
+              <div class="caption">
+              <p>Zilu Liang</p>
+              <p>PhD Student</p>
+              </div>
+            </div>
+          </a>
+            
+          <a href="html/people/template.html">
+            <div class="item-container">
+              <img src="assets/imgs/profiles/default.png" alt="Profile 3">
+              <div class="caption">
+              <p>Denis Lan</p>
+              <p>PhD Student</p>
+              </div>
+            </div>
+          </a>
+            
+          <a href="html/people/template.html">
+            <div class="item-container">
+              <img src="assets/imgs/profiles/default.png" alt="Profile 3">
+              <div class="caption">
+              <p>Kai Sandbrink</p>
+              <p>PhD Student</p>
+              </div>
+            </div>
+          </a>
+            
+          <a href="html/people/template.html">
+            <div class="item-container">
+              <img src="assets/imgs/profiles/default.png" alt="Profile 3">
+              <div class="caption">
+              <p>Aeron Laffere</p>
+              <p>PhD Student</p>
+              </div>
+            </div>
+          </a>
+            
+          <a href="html/people/template.html">
+            <div class="item-container">
+              <img src="assets/imgs/profiles/default.png" alt="Profile 3">
+              <div class="caption">
+              <p>Mia Whitefield</p>
+              <p>PhD Student</p>
+            </div>
+          </div>
+          </a>
+            
+          <a href="html/people/template.html">
+            <div class="item-container">
+              <img src="assets/imgs/profiles/default.png" alt="Profile 3">
+              <div class="caption">
+              <p>Brian Christian</p>
+              <p>PhD Student</p>
+              </div>
+            </div>
+          </a>
+            
+          <a href="html/people/alexGrogan.html">
+            <div class="item-container">
+              <img src="assets/imgs/profiles/default.png" alt="Profile 3">
+              <div class="caption">
+              <p>Alex Grogan</p>
+              <p>MSc Student & <br> Developer</p>
+              </div>
+            </div>
+          </a>
+            
+        
+            <!-- Add more profile pictures as needed -->
+            <!-- ... -->
+        
+          </div>
+
+      </section>
+
+      
+
+    </div>
+  </main>
+
+  <!-- Footer Section -->
+  <!-- <footer>
+    <div class="container">
+      <p>&copy; 2024 University of Oxford. All rights reserved.</p>
+    </div>
+  </footer> -->
+
 </body>
+
+<script src="assets/js/slideshow.js"></script>
+
 </html>
