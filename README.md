@@ -7,3 +7,5 @@ Contains information on:
 - Lab wiki and server instructions
 - Induction guide
 - Academic resources
+
+To edit the document, please clone the repo and make changes locally. You can test that your changes work and are suitable by opening `index.html` locally. Please test before attempting to merge. To deploy changes, submit a pull request.
