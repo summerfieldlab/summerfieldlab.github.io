@@ -15,7 +15,7 @@ Visitors: If you are visiting us in person, New Radcliffe House can be found [he
 
 ## Data and code
 
-We are committed to open science. Data and source code for our publications should be available on our [Github](https://github.com/summerfieldlab) site. If you would like access to a dataset that you can’t find there, please email the PI.
+We are committed to open science. Data and source code for our publications should be available on our [GitHub](https://github.com/summerfieldlab) site. If you would like access to a dataset that you can’t find there, please email the PI.
 
 
 ## Climate change
