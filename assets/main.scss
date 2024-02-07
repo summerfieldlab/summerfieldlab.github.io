@@ -1,0 +1,52 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+
+@import "minima";
+@import url('https://fonts.googleapis.com/css?family=Quattrocento');
+
+body {
+    font-family: 'Quattrocento', serif;
+    color: #666666;
+}
+a, a:visited, a:link {
+    color: #e8554e;
+}
+a:hover, a:focus, .site-nav a:hover, .site-nav a:focus {
+    color: #e33028;
+    text-decoration: none;
+}
+.logo-box {
+    display: flex;
+    justify-content: left;
+}
+.title-box {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+}
+.site-header, .site-nav {
+    background-color: black;
+    color: white;
+}
+.menu-icon {
+    color: white;
+}
+.menu-icon path {
+    fill: white;
+}
+.site-title {
+    font-size: 32px;
+    font-weight: 700;
+}
+.title-box, .title-box a, .title-box a:link, .title-box a:visited {
+    color: white;
+}
+.page-link, a.page-link, a.page-link:visited, a.page-link:link {
+    color: white;
+}
+.page-link:hover, a.page-link:hover, a.page-link:focus {
+    color: #e33028;
+}

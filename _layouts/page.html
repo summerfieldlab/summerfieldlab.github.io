@@ -1,0 +1,27 @@
+---
+layout: default
+---
+<article class="post">
+
+  <header class="post-header">
+    <h1 class="post-title">
+        {% if page.title == "Home" %}
+          Welcome
+        {% else %}
+          {{ page.title | escape }}
+        {% endif %}
+      </h1>
+  </header>
+
+  <div class="post-content">
+    {{ content }}
+  </div>
+
+</article>
+
+{% comment %}
+Extract the base filename from the page's file path and append .css to it for the stylesheet link.
+{% endcomment %}
+{% assign filename = page.path | split: '/' | last %}
+{% assign css_filename = filename | remove: 'md' | append: 'css' %}
+<link rel="stylesheet" href="{{ '/assets/css/' | append: css_filename | relative_url }}">
