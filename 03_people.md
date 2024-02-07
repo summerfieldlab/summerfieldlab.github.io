@@ -119,11 +119,11 @@ permalink: /people/
 ## Alumni (postdocs)
  - Vincent de Gardelle
    - ![Vincent de Gardelle](https://humaninformationprocessing.files.wordpress.com/2019/09/screenshot-2019-09-15-at-10.29.09.png)
-   - Vincent is now a tenured CNRS researcher at the [Sorbonne, Paris](https://www.pantheonsorbonne.fr/recherche/page-perso/page/?tx_oxcspagepersonnel_pi1[uid]=vdegardell).
+   - Vincent is now a tenured CNRS researcher at the [Sorbonne](https://www.pantheonsorbonne.fr/recherche/page-perso/page/?tx_oxcspagepersonnel_pi1[uid]=vdegardell), Paris.
 
  - Valentin Wyart
    - ![Valentin Wyart](https://humaninformationprocessing.files.wordpress.com/2019/09/screenshot-2019-09-15-at-10.29.02.png)
-   - Valentin is now a tenured INSERM researcher at the [ENS, Paris](https://cognition.ens.fr/fr).
+   - Valentin is now a tenured INSERM researcher at the [ENS](https://cognition.ens.fr/fr), Paris.
 
  - Alejo Nevado-Holgado
    - ![Alejo Nevado-Holgado](https://humaninformationprocessing.files.wordpress.com/2019/09/screenshot-2019-09-15-at-13.07.21.png)
