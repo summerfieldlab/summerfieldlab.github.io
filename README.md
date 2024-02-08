@@ -1,4 +1,4 @@
-# Summerfield Lab Handbook and Wiki
+# Public HIPlab Website
 
 Hello and welcome to the new version of our public-facing website!
 
