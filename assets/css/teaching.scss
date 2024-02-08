@@ -1,0 +1,36 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+
+ul {
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+    margin-left: 0;
+}
+li {
+    display: flex;
+    align-items: flex-start;
+    margin-bottom: 20px;
+}    
+li img {
+    margin-right: 20px;
+}    
+li ul {
+    flex: 1;
+}
+li ul li {
+    margin-bottom: 10px;
+    min-width: 150px;
+}
+li ul li:first-child {
+    font-weight: bold;
+}
+img {
+    max-width: 375px;
+}
+@media (max-width: 800px) {
+    li {
+      flex-direction: column;
+    }
+}
