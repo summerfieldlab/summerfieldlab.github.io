@@ -27,6 +27,9 @@ Some pictures of lab members past and present having fun (and even a few of us d
 ## Cosyne 2019
 ![Cosyne 2019](https://humaninformationprocessing.files.wordpress.com/2019/09/1050ce32-76c0-48a9-a319-2086e98042e1-2.jpg)
 
+## Some of the lab (+Felix!) punting, summer 2019
+![Some of the lab (+Felix!) punting, summer 2019](https://humaninformationprocessing.files.wordpress.com/2019/09/screenshot-2019-09-15-at-15.17.06.png)
+
 ## Punting
 ![Punting](https://humaninformationprocessing.files.wordpress.com/2019/09/09333012-a0c5-46f6-be2e-30fa671f6dac-2.jpg)
 
