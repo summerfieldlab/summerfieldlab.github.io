@@ -1,14 +1,17 @@
 In Press / Preprint:
+
   - title: Goal-seeking compresses neural codes for space in the human hippocampus + OFC
     authors: Muhle-Karbe et al
     journal: In press, Neuron
     paper_url: 
     img: https://humaninformationprocessing.files.wordpress.com/2023/01/screenshot-2023-01-16-at-12.47.18.png
+
   - title: Control of working memory in a recurrent neural network
     authors: Piwek et al
     journal: In press, PLOS Computational Biology
     paper_url: 
     img: https://humaninformationprocessing.files.wordpress.com/2022/09/screenshot-2022-09-01-at-15.57.23.png
+
   - title: Space as scaffold for temporal generalisation
     authors: Pesnot-Larrousseau & Summerfield
     journal: PsyArXiv preprint
@@ -17,16 +20,19 @@ In Press / Preprint:
 
 
 2023:
+
   - title: Hebbian context gating for continual learning
     authors: Flesch et al
     journal: PLOS Computational Biology
     paper_url: https://arxiv.org/ftp/arxiv/papers/2203/2203.11560.pdf
     img: https://humaninformationprocessing.files.wordpress.com/2022/03/screenshot-2022-03-20-at-11.50.24.png
+
   - title: Neural knowledge assembly in humans and deep networks
     authors: Nelli et al
     journal: Neuron
     paper_url: https://www.biorxiv.org/content/10.1101/2021.10.21.465374v1
     img: https://humaninformationprocessing.files.wordpress.com/2022/03/screenshot-2022-03-21-at-08.02.12-1.png
+
   - title: Continual task learning in natural and artificial agents
     authors: Flesch et al
     journal: TINS
@@ -35,26 +41,31 @@ In Press / Preprint:
 
 
 2022:
+
   - title: Rich and lazy learning in brains and neural networks
     authors: Flesch et al
     journal: Neuron
     paper_url: 
     img: https://humaninformationprocessing.files.wordpress.com/2021/05/screenshot-2021-05-20-at-09.30.16.png
+
   - title: Hitchhiker’s Guide to the Brain
     authors: 
     journal: Annals of Improbable Research
     paper_url: https://improbable.com/wp-content/uploads/2022/01/HItchhiker-AIR-v28i1-1.pdf
     img: https://humaninformationprocessing.files.wordpress.com/2022/03/screenshot-2022-03-20-at-11.47.02-1.png
+
   - title: Model sharing in the human medial temporal lobe
     authors: Glitz et al
     journal: J Neurosci
     paper_url: 
     img: https://humaninformationprocessing.files.wordpress.com/2021/09/screenshot-2021-09-28-at-07.11.34.png
+
   - title: Curriculum learning for human compositional generalisation
     authors: Dekker et al
     journal: PNAS
     paper_url: 
     img: https://humaninformationprocessing.files.wordpress.com/2022/04/screenshot-2022-04-23-at-10.58.21.png
+
   - title: How do (perceptual) distracters distract?
     authors: Dumbalska et al
     journal: PLOS Computational Biology
@@ -63,36 +74,43 @@ In Press / Preprint:
 
 
 2021:
+
   - title: Neural state space alignment for humans and neural networks.
     authors: Sheahan et al
     journal: Neuro
     paper_url: 
     img: https://humaninformationprocessing.files.wordpress.com/2020/07/screenshot-2020-07-22-at-17.11.47.png
+
   - title: Optimal utility functions under noisy decisions
     authors: Juechems et al
     journal: PNAS
     paper_url: 
     img: https://humaninformationprocessing.files.wordpress.com/2020/02/screenshot-2020-02-22-at-10.23.25-1.png
+
   - title: Optional stopping in a heteroscedastic world
     authors: Tickle et al
     journal: Psychological Review
     paper_url: https://psyarxiv.com/t7dn2
     img: https://humaninformationprocessing.files.wordpress.com/2020/03/screenshot-2020-03-01-at-08.04.11.png
+
   - title: Normative principles in natural environments
     authors: Parpart & Summerfield
     journal: Annual Review of Psychology
     paper_url: https://psyarxiv.com/s2wvz/
     img: https://humaninformationprocessing.files.wordpress.com/2021/02/screenshot-2021-02-18-at-13.55.27.png
+
   - title: A normative account of confirmatory bias in RL
     authors: Lefevre et al
     journal: Neural Computation
     paper_url: https://www.biorxiv.org/content/10.1101/2020.05.12.090134v1
     img: https://humaninformationprocessing.files.wordpress.com/2020/02/screenshot-2020-02-22-at-10.38.27.png
+
   - title: Hippocampal place cells encode global not local space
     authors: Duvelle et al
     journal: Current Biology
     paper_url: 
     img: https://humaninformationprocessing.files.wordpress.com/2021/09/screenshot-2021-09-28-at-05.58.35.png
+
   - title: Unsupervised concept learning in macaque IT cortex
     authors: Higgins et al
     journal: Nature Communications
@@ -101,31 +119,37 @@ In Press / Preprint:
 
 
 2020:
+
   - title: How can neuroscientists respond to the climate emergency?
     authors: Aron et al
     journal: Neuron
     paper_url: https://psyarxiv.com/dxpv4/
     img: https://humaninformationprocessing.files.wordpress.com/2020/02/screenshot-2020-02-22-at-10.11.30-1.png
+
   - title: Neural mechanisms of selective integration
     authors: Luyckx et al
     journal: Cerebral Cortex
     paper_url: https://www.biorxiv.org/content/10.1101/642371v3
     img: https://humaninformationprocessing.files.wordpress.com/2019/09/screenshot-2019-09-14-at-17.35.20.png
+
   - title: Structure learning and the parietal cortex
     authors: Summerfield et al
     journal: Prog. Neurobiology
     paper_url: https://www.sciencedirect.com/science/article/pii/S0301008219303351?via%3Dihub
     img: https://humaninformationprocessing.files.wordpress.com/2019/09/screenshot-2019-09-14-at-16.40.40.png
+
   - title: A map of decoy influence in human choice
     authors: Dumbalska et al
     journal: PNAS
     paper_url: 
     img: https://humaninformationprocessing.files.wordpress.com/2020/02/screenshot-2020-02-22-at-10.41.45.png
+
   - title: If deep learning is the answer, what is the question?
     authors: Saxe et al
     journal: Nature Reviews Neuroscience
     paper_url: 
     img: https://humaninformationprocessing.files.wordpress.com/2020/04/screenshot-2020-04-16-at-09.57.48.png
+
   - title: A space of candidate learning rules for deep networks
     authors: Cao et al
     journal: NeurIPS
@@ -134,26 +158,31 @@ In Press / Preprint:
 
 
 2019:
+
   - title: Neural structure mapping during reward learning
     authors: Luyckx et al
     journal: Elife
     paper_url: https://elifesciences.org/articles/42816
     img: https://humaninformationprocessing.files.wordpress.com/2019/09/screenshot-2019-09-14-at-17.38.47.png
+
   - title: Human noise blindness and suboptimal inference
     authors: Herce-Castanon et al
     journal: Nature Comms
     paper_url: https://www.nature.com/articles/s41467-019-09330-7
     img: https://humaninformationprocessing.files.wordpress.com/2019/09/screenshot-2019-09-14-at-17.34.58.png
+
   - title: Where does value come from?
     authors: Juechems et al
     journal: TICS
     paper_url: https://www.cell.com/trends/cognitive-sciences/fulltext/S1364-6613(19)30200-1?rss=yes
     img: https://humaninformationprocessing.files.wordpress.com/2019/09/screenshot-2019-09-14-at-17.35.07.png
+
   - title: Causal inference in the multisensory brain
     authors: Cao et al
     journal: Neuron
     paper_url: https://www.cell.com/neuron/pdfExtended/S0896-6273(19)30332-0
     img: https://humaninformationprocessing.files.wordpress.com/2019/09/screenshot-2019-09-14-at-17.38.57.png
+
   - title: A network for computing value equilibrium
     authors: Juechems et al
     journal: Neuron
@@ -162,11 +191,13 @@ In Press / Preprint:
 
 
 2018:
+
   - title: Gain control explains the effects of distraction
     authors: Li et al
     journal: PNAS
     paper_url: https://www.pnas.org/content/115/38/E8825.short
     img: https://humaninformationprocessing.files.wordpress.com/2019/09/screenshot-2019-09-14-at-17.24.19.png
+
   - title: Continual learning in minds and machines
     authors: Flesch et al
     journal: PNAS
@@ -175,36 +206,43 @@ In Press / Preprint:
 
 
 2017:
+
   - title: Neuroscience-inspired artificial intelligence
     authors: Hassabis et al
     journal: Neuron
     paper_url: https://www.cell.com/neuron/fulltext/S0896-6273(17)30509-3
     img: https://humaninformationprocessing.files.wordpress.com/2019/09/screenshot-2019-09-14-at-17.54.13.png
+
   - title: Robust averaging protects against neural noise
     authors: Li et al
     journal: PLOS Comp. Biol.
     paper_url: https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005723
     img: https://humaninformationprocessing.files.wordpress.com/2019/09/screenshot-2019-09-14-at-17.54.32.png
+
   - title: Ventromedial PFC encodes cumulative reward
     authors: Juechems et al
     journal: Neuron
     paper_url: https://www.sciencedirect.com/science/article/pii/S089662731631011X?via%3Dihub
     img: https://humaninformationprocessing.files.wordpress.com/2019/09/screenshot-2019-09-14-at-17.54.50.png
+
   - title: Decisions in rodents, monkeys and humans
     authors: Hanks & Summerfield
     journal: Neuron
     paper_url: https://www.sciencedirect.com/science/article/pii/S0896627316309424?via%3Dihub
     img: https://humaninformationprocessing.files.wordpress.com/2019/09/screenshot-2019-09-14-at-17.54.23.png
+
   - title: Robust sampling of decision information
     authors: Vandormael et al
     journal: PNAS
     paper_url: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5347592/
     img: https://humaninformationprocessing.files.wordpress.com/2019/09/screenshot-2019-09-14-at-17.54.40.png
+
   - title: Selective overweighting of numerical magnitudes
     authors: Spitzer et al
     journal: Nature Hum Behav
     paper_url: https://www.nature.com/articles/s41562-017-0145
     img: https://humaninformationprocessing.files.wordpress.com/2019/09/screenshot-2019-09-14-at-18.29.54.png
+
   - title: Confidence matching in group decision-making
     authors: Bang et al
     journal: Nature Hum Behav
@@ -213,31 +251,37 @@ In Press / Preprint:
 
 
 2016:
+
   - title: Hierarchical planning in a virtual subway network
     authors: Balaguer et al
     journal: Neuron
     paper_url: https://www.cell.com/neuron/fulltext/S0896-6273(16)30057-5
     img: https://humaninformationprocessing.files.wordpress.com/2019/09/screenshot-2019-09-14-at-18.30.16.png
+
   - title: Encoding of stimulus probability in macaque IT
     authors: Bell et al
     journal: Current Biology
     paper_url: https://www.sciencedirect.com/science/article/pii/S0960982216307588?via%3Dihub
     img: https://humaninformationprocessing.files.wordpress.com/2019/09/screenshot-2019-09-14-at-18.30.28.png
+
   - title: Differentiable Neural Computing
     authors: Graves et al
     journal: Nature
     paper_url: https://www.nature.com/articles/nature20101
     img: https://humaninformationprocessing.files.wordpress.com/2019/09/screenshot-2019-09-14-at-18.30.36.png
+
   - title: Feature based attention and expectation
     authors: Summerfield & Egner
     journal: TICS
     paper_url: https://www.sciencedirect.com/science/article/pii/S1364661316300018?via%3Dihub
     img: https://humaninformationprocessing.files.wordpress.com/2019/09/screenshot-2019-09-14-at-18.30.52.png
+
   - title: Irrational and optimal economic decisions
     authors: Tsetsos et al
     journal: PNAS
     paper_url: https://www.pnas.org/content/113/11/3102.short
     img: https://humaninformationprocessing.files.wordpress.com/2019/09/screenshot-2019-09-14-at-18.30.45.png
+
   - title: Near-optimal integration of approximate number
     authors: Tickle et al
     journal: J Cog. Neuro
@@ -246,21 +290,25 @@ In Press / Preprint:
 
 
 2015:
+
   - title: Feature expectation heightens visual sensitivity
     authors: Cheadle et al
     journal: J. Vision
     paper_url: https://www.ncbi.nlm.nih.gov/pubmed/26505967
     img: https://humaninformationprocessing.files.wordpress.com/2019/09/screenshot-2019-09-15-at-08.17.26.png
+
   - title: Do humans make good decisions?
     authors: Tsetsos & Summerfield
     journal: TICS
     paper_url: https://www.sciencedirect.com/science/article/pii/S1364661314002381?via%3Dihub
     img: https://humaninformationprocessing.files.wordpress.com/2019/09/screenshot-2019-09-15-at-08.17.33.png
+
   - title: Decisions under focused and divided attention
     authors: Wyart et al
     journal: J. Neurosci
     paper_url: https://www.jneurosci.org/content/35/8/3485.long
     img: https://humaninformationprocessing.files.wordpress.com/2019/09/screenshot-2019-09-15-at-08.15.56.png
+
   - title: Two sources of uncertainty in decision-making
     authors: Michael et al
     journal: Cerebral Cortex
@@ -269,21 +317,25 @@ In Press / Preprint:
 
 
 2014:
+
   - title: Adaptive gain control during decision-making
     authors: Cheadle et al
     journal: Neuron
     paper_url: https://www.sciencedirect.com/science/article/pii/S0896627314000518?via%3Dihub
     img: https://humaninformationprocessing.files.wordpress.com/2019/09/screenshot-2019-09-15-at-08.16.33.png
+
   - title: Expectation in perceptual decision-making
     authors: Summerfield & de Lange
     journal: Nat. Rev. Neurosci
     paper_url: https://www.nature.com/articles/nrn3838
     img: https://humaninformationprocessing.files.wordpress.com/2019/09/screenshot-2019-09-15-at-08.16.04.png
+
   - title: Priming by the variability of visual information
     authors: Michael et al
     journal: PNAS
     paper_url: https://www.pnas.org/content/111/21/7873.long
     img: https://humaninformationprocessing.files.wordpress.com/2019/09/screenshot-2019-09-15-at-08.15.41.png
+
   - title: Neural mechanisms of economic commitment
     authors: Tsetsos et al
     journal: Elife
@@ -292,16 +344,19 @@ In Press / Preprint:
 
 
 2013:
+
   - title: Repetition enhancement and suppression in vision
     authors: de Gardelle et al
     journal: Cerebral Cortex
     paper_url: https://academic.oup.com/cercor/article/23/9/2235/597366
     img: https://humaninformationprocessing.files.wordpress.com/2019/09/screenshot-2019-09-15-at-08.31.42.png
+
   - title: Attention sharpens neural codes for expectation
     authors: Jiang et al
     journal: J. Neurosci
     paper_url: https://www.jneurosci.org/content/33/47/18438.long
     img: https://humaninformationprocessing.files.wordpress.com/2019/09/screenshot-2019-09-15-at-08.31.51.png
+
   - title: Overlapping neural patterns for expectations
     authors: de Gardelle et al
     journal: Front Hum Neurosci
@@ -310,63 +365,76 @@ In Press / Preprint:
 
 
 2012:
+
   - title: Expectation sharpens perceptual decisions
     authors: Wyart et al"  
     journal: PNAS
     paper_url: https://www.pnas.org/content/109/9/3593.long
     img: https://humaninformationprocessing.files.wordpress.com/2019/09/screenshot-2019-09-15-at-08.41.58.png
+
   - title: Rhythmic fluctuations in evidence accumulation
     authors: Wyart et al"  
     journal: Neuron
     paper_url: https://www.sciencedirect.com/science/article/pii/S0896627312008483?via%3Dihub
     img: https://humaninformationprocessing.files.wordpress.com/2019/09/screenshot-2019-09-15-at-08.41.50.png
+
   - title: Bridging perceptual and economic decisions
     authors: Tsetsos et al
     journal: Front Hum Neurosci" 
     paper_url: https://www.frontiersin.org/articles/10.3389/fnins.2012.00070/full
     img: https://humaninformationprocessing.files.wordpress.com/2019/09/screenshot-2019-09-15-at-08.42.04.png
 
+
 Earlier:
+
   - title: Decisions in a rapidly changing environment
     authors: Summerfield et al
     journal: Neuron" 
     paper_url: https://www.cell.com/neuron/fulltext/S0896-6273(11)00552-6?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS0896627311005526%3Fshowall%3Dtrue
     img: https://humaninformationprocessing.files.wordpress.com/2019/09/screenshot-2019-09-15-at-09.08.21.png
+
   - title: Robust averaging during perceptual judgement
     authors: de Gardelle et al"  
     journal: PNAS
     paper_url: https://www.pnas.org/content/108/32/13341.long
     img: https://humaninformationprocessing.files.wordpress.com/2019/09/screenshot-2019-09-15-at-09.08.28.png
+
   - title: Economic bias in perceptual decisions
     authors: Summerfield et al
     journal: Front Hum Neurosci
     paper_url: https://www.frontiersin.org/articles/10.3389/fnhum.2010.00208/full
     img: https://humaninformationprocessing.files.wordpress.com/2019/09/screenshot-2019-09-15-at-09.08.36.png
+
   - title: Expectation suppression in visual cortex
     authors: Egner et al
     journal: J Neurosc
     paper_url: https://www.jneurosci.org/content/30/49/16601.long
     img: https://humaninformationprocessing.files.wordpress.com/2019/09/screenshot-2019-09-15-at-09.08.43.png
+
   - title: Two mechanisms for task switching in the PFC
     authors: Hyafil et al
     journal: J Neurosci
     paper_url: https://www.jneurosci.org/content/29/16/5135.long" 
     img: https://humaninformationprocessing.files.wordpress.com/2019/09/screenshot-2019-09-15-at-09.08.54.png
+
   - title: Expectation and adaptation in visual cortex
     authors: Summerfield et al
     journal: Nature Neurosci
     paper_url: https://www.nature.com/articles/nn.2163
     img: https://humaninformationprocessing.files.wordpress.com/2019/09/screenshot-2019-09-15-at-09.09.00.png
+
   - title: A neural representation of prior information
     authors: Summerfield et al
     journal: Neuron
     paper_url: https://www.sciencedirect.com/science/article/pii/S089662730800456X?via%3Dihub
     img: https://humaninformationprocessing.files.wordpress.com/2019/09/screenshot-2019-09-15-at-09.18.29.png
+
   - title: An information theoretic model of PFC function
     authors: Koechlin & Summerfield
     journal: TICS
     paper_url: https://www.sciencedirect.com/science/article/pii/S1364661307001052?via%3Dihub
     img: https://humaninformationprocessing.files.wordpress.com/2019/09/screenshot-2019-09-15-at-09.18.35.png
+
   - title: Predictive codes in the prefrontal cortex
     authors: Summerfield et al
     journal: Science
