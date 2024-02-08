@@ -15,6 +15,6 @@ permalink: /news/
   {% when "3" %}{% assign date_suffix = "rd" %}
   {% else %}{% assign date_suffix = "th" %}
 {% endcase %}
-<p>{{ item.date | date: "%e" }}{{ date_suffix }} {{ item.date | date: "%b %Y" }}</p>
+<p class="date">{{ item.date | date: "%e" }}{{ date_suffix }} {{ item.date | date: "%b %Y" }}</p>
 <p>{{ item.body | markdownify }}</p>
 {% endfor %}
