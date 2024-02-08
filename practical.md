@@ -4,7 +4,7 @@ title: Practical
 permalink: /practical/
 ---
 
-## Contacting the lab
+## Contacting the Lab
 
 To contact the lab PI, please write to [christopher.summerfield@psy.ox.ac.uk](mailto:christopher.summerfield@psy.ox.ac.uk).
 
@@ -13,17 +13,17 @@ We recruit volunteers to participate in our experiments! If you are interested, 
 Visitors: If you are visiting us in person, New Radcliffe House can be found [here](https://www.google.com/maps/place/New+Radcliffe+House/@51.7602085,-1.2678242,17z/data=!3m1!4b1!4m5!3m4!1s0x4876c6a0bb731c63:0x611f4a7211f034b8!8m2!3d51.7602085!4d-1.2656355).
 
 
-## Data and code
+## Data and Code
 
 We are committed to open science. Data and source code for our publications should be available on our [GitHub](https://github.com/summerfieldlab) site. If you would like access to a dataset that you can’t find there, please email the PI.
 
 
-## Climate change
+## Climate Change
 
 We are alarmed by the world’s inaction over climate change. We are committed to sustainable travel wherever possible. The lab PI does not fly to give talks, examine vivas or review grants (but is always happy to take the train!). For more details, see [here](https://flightlessprofessors.org).
 
 
-## Joining the lab
+## Joining the Lab
 
 We’re always interested in hearing from people who are interested in joining the lab. However, please bear in mind the caveats below:
 
