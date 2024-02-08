@@ -9,8 +9,8 @@ permalink: /
 
 Welcome to the website of the Human Information Processing (HIP) lab in the [Department of Experimental Psychology](https://www.psy.ox.ac.uk) at the [University of Oxford](https://www.ox.ac.uk), run by Professor Christopher Summerfield.
 
-![Some of the lab (+Felix!) punting, summer 2019.](https://humaninformationprocessing.files.wordpress.com/2019/09/screenshot-2019-09-15-at-15.17.06.png)
-Some of the lab (+Felix!) punting, summer 2019.
+![Some of the lab punting, summer 2022.](https://humaninformationprocessing.files.wordpress.com/2024/02/2022-08-31-img_7408.jpg)
+Some of the lab punting, summer 2022.
 
 Please also follow us on [Twitter](https://twitter.com/summerfieldlab?lang=en).
 
