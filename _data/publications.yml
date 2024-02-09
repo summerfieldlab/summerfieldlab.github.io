@@ -1,11 +1,5 @@
 In Press / Preprint:
 
-  - title: Goal-seeking compresses neural codes for space in the human hippocampus + OFC
-    authors: Muhle-Karbe et al
-    journal: In press, Neuron
-    paper_url: 
-    img: https://humaninformationprocessing.files.wordpress.com/2023/01/screenshot-2023-01-16-at-12.47.18.png
-
   - title: Control of working memory in a recurrent neural network
     authors: Piwek et al
     journal: In press, PLOS Computational Biology
@@ -21,6 +15,12 @@ In Press / Preprint:
 
 2023:
 
+  - title: Goal-seeking compresses neural codes for space in the human hippocampus + OFC
+    authors: Muhle-Karbe et al
+    journal: Neuron
+    paper_url: 
+    img: https://humaninformationprocessing.files.wordpress.com/2023/01/screenshot-2023-01-16-at-12.47.18.png
+    
   - title: "Thinking beyond the ventral stream: Comment on Bowers et al."
     authors: Summerfield et al
     journal: Behavioral and Brain Sciences
