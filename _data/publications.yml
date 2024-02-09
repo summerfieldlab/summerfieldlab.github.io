@@ -1,11 +1,5 @@
 In Press / Preprint:
 
-  - title: Control of working memory in a recurrent neural network
-    authors: Piwek et al
-    journal: In press, PLOS Computational Biology
-    paper_url: 
-    img: https://humaninformationprocessing.files.wordpress.com/2022/09/screenshot-2022-09-01-at-15.57.23.png
-
   - title: Space as scaffold for temporal generalisation
     authors: Pesnot-Larrousseau & Summerfield
     journal: PsyArXiv preprint
@@ -15,10 +9,16 @@ In Press / Preprint:
 
 2023:
 
+   - title: Control of working memory in a recurrent neural network
+    authors: Piwek et al
+    journal: PLOS Computational Biology
+    paper_url: https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1011555
+    img: https://humaninformationprocessing.files.wordpress.com/2022/09/screenshot-2022-09-01-at-15.57.23.png
+    
   - title: Goal-seeking compresses neural codes for space in the human hippocampus + OFC
     authors: Muhle-Karbe et al
     journal: Neuron
-    paper_url: 
+    paper_url: https://www.biorxiv.org/content/10.1101/2023.01.12.523762v1
     img: https://humaninformationprocessing.files.wordpress.com/2023/01/screenshot-2023-01-16-at-12.47.18.png
     
   - title: "Thinking beyond the ventral stream: Comment on Bowers et al."
