@@ -7,14 +7,13 @@ permalink: /news/
 
 {% for item in site.data.news %}
 <h2>{{ item.title }}</h2>
-{% assign date = item.date | date: "%e" | split: "" %}
-{% assign last_day_digit = date | last %}
-{% case last_day_digit %}
-  {% when "1" %}{% assign date_suffix = "st" %}
-  {% when "2" %}{% assign date_suffix = "nd" %}
-  {% when "3" %}{% assign date_suffix = "rd" %}
+{% assign day = item.date | date: "%-d" %}
+{% case day %}
+  {% when "1" or "21" or "31" %}{% assign date_suffix = "st" %}
+  {% when "2" or "22" %}{% assign date_suffix = "nd" %}
+  {% when "3" or "23" %}{% assign date_suffix = "rd" %}
   {% else %}{% assign date_suffix = "th" %}
 {% endcase %}
-<p class="date">{{ item.date | date: "%e" }}{{ date_suffix }} {{ item.date | date: "%b %Y" }}</p>
+<p class="date">{{ day }}{{ date_suffix }} {{ item.date | date: "%b %Y" }}</p>
 <p>{{ item.body | markdownify }}</p>
 {% endfor %}
