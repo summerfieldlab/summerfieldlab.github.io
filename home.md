@@ -12,7 +12,7 @@ Welcome to the website of the Human Information Processing (HIP) lab in the [Dep
 ![Some of the lab punting, summer 2022.](https://humaninformationprocessing.files.wordpress.com/2024/02/2022-08-31-img_7408.jpg)
 Some of the lab punting, summer 2022.
 
-Please also follow us on [Twitter](https://twitter.com/summerfieldlab?lang=en) or [BlueSky] (https://bsky.app/profile/summerfieldlab.bsky.social)
+Please also follow us on [Twitter](https://twitter.com/summerfieldlab?lang=en) or [BlueSky](https://bsky.app/profile/summerfieldlab.bsky.social)
 
 For more about us and our work, please follow the menu links above.
 
