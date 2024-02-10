@@ -1,8 +1,6 @@
 # Public HIPlab Website
 
-Hello and welcome to the new version of our public-facing website!
-
-This has not yet been deployed to humaninformationprocessing.com, but it is currently publicly viewable at [https://summerfieldlab.github.io/](https://summerfieldlab.github.io/)
+Hello and welcome to the new version of our public-facing website! It is viewable on the web at [https://summerfieldlab.github.io/](https://summerfieldlab.github.io/)
 
 One big advantage of the new site is that it is now editable in pure Markdown + YAML. Everyone in the lab has write access to this repository and can directly make changes as needed.
 
