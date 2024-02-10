@@ -9,5 +9,5 @@ People's bios: [/_data/people.yml](https://github.com/summerfieldlab/summerfield
 Lab publications: [/_data/publications.yml](https://github.com/summerfieldlab/summerfieldlab.github.io/blob/main/_data/publications.yml)
 -- and edit it right in your browser by clicking the pencil icon in the upper-right hand corner.
 
-**To add images,** you need to log into our WordPress and also size and format them correctly -- in this situation, it's best to simply send your images to Chris, who has a whole workflow for this.
+**To add images,** you need to log into our WordPress and also size and format them correctly -- in this situation, it's best to simply send your images to Chris, who has a whole workflow for this. Once Chris has uploaded and sized the image, he can give you its URL which you can then add in the appropriate place, e.g., in the people, news, or publications YAML.
 
