@@ -13,42 +13,42 @@ This advanced option course discusses the search for a general theory of learnin
 - ![Lecture 1: Building and understanding brains.](https://humaninformationprocessing.files.wordpress.com/2020/01/screenshot-2020-01-29-at-08.02.31-2.png)
     - Lecture 1: Building and understanding brains.
     - Introduction; Recent advances in AI research; Biological and Artifical Brains; The computational approach; Definitions of intelligence; Good old-fashioned AI
-    - [Watch video of lecture 1](https://humaninformationprocessing.com/video-1/)
+    - [Watch video of lecture 1](https://videopress.com/v/i9lT5umj){:target="_blank"}
 
 - ![Lecture 2: Model-free reinforcement learning](https://humaninformationprocessing.files.wordpress.com/2020/01/screenshot-2020-01-29-at-08.32.59.png)
     - Lecture 2: Model-free reinforcement learning
     - Why do we have a brain; Classical and operant conditioning; reinforcement learning and the Bellman equation; Temporal difference learning; Q-learning, eligibility traces, actor-critic methods  
-    - [Watch video of lecture 2](https://humaninformationprocessing.com/video-2/)
+    - [Watch video of lecture 2](https://videopress.com/v/4udJpD7z){:target="_blank"}
 
 - ![Lecture 3: Feedforward networks and object categorisation](https://humaninformationprocessing.files.wordpress.com/2020/01/screenshot-2020-01-29-at-08.33.17.png)  
     - Lecture 3: Feedforward networks and object categorisation
     - Parametric models for object recognition; Critiques of pure representationalism; Perceptrons and sigmoid neurons; Depth: the multilayer perceptron; Challenges: optimisation, generalisation and overfitting
-    - [Watch video of lecture 3](https://humaninformationprocessing.com/video-3/)  
+    - [Watch video of lecture 3](https://videopress.com/v/o92WiRvd){:target="_blank"}
 
 - ![Lecture 4: Structuring information in space and time](https://humaninformationprocessing.files.wordpress.com/2020/01/screenshot-2020-01-29-at-08.33.43-1.png)
     - Lecture 4: Structuring information in space and time
     - Convnets and translational invariance; Convnets and the primate ventral stream; Limitations of feedforward deep networks; Hierarchies of temporal integration in the brain; Temporal integration in perceptual decision-making; Recurrent neural networks and the parietal cortex  
-    - [Watch video of lecture 4](https://humaninformationprocessing.com/video-4/)
+    - [Watch video of lecture 4](https://videopress.com/v/FeeDkJ9u){:target="_blank"}
 
 - ![Lecture 5: Computation and modular memory systems](https://humaninformationprocessing.files.wordpress.com/2020/01/screenshot-2020-01-29-at-08.34.52.png)  
     - Lecture 5: Computation and modular memory systems
     - Modular memory systems; working memory gating in the PFC; LSTMs; The differentiable neural computer; The problem of continual learning  
-    - [Watch video of lecture 5](https://humaninformationprocessing.com/video-5/)  
+    - [Watch video of lecture 5](https://videopress.com/v/eb9Rmqjw){:target="_blank"}
 
 - ![Lecture 6: Complementary learning systems theory](https://humaninformationprocessing.files.wordpress.com/2020/01/screenshot-2020-01-29-at-08.35.03.png)
     - Lecture 6: Complementary learning systems theory
     - Dual process memory models; the hippocampus as a parametric storage devide; experience-dependent replay and consolidation; the deep Q-network; knowledge partitioning and resource allocation  
-    - [Watch video of lecture 6](https://humaninformationprocessing.com/video-6/)  
+    - [Watch video of lecture 6](https://videopress.com/v/rgu63cLS){:target="_blank"}
 
 - ![Lecture 7: Unsupervised and generative models](https://humaninformationprocessing.files.wordpress.com/2020/01/screenshot-2020-01-29-at-08.35.36.png)
     - Lecture 7: Unsupervised and generative models
     - Unsupervised learning: knowing that a thing is a thing; Encoding models: Hebbian learning and sparse coding; Variational autoencoders; The Bayesian approach; Predictive coding  
-    - [Watch video of Lecture 7](https://humaninformationprocessing.com/video-7/)  
+    - [Watch video of Lecture 7](https://videopress.com/v/UyzemYzv){:target="_blank"}
 
 - ![Lecture 8: Building a model of the world for planning and reasoning](https://humaninformationprocessing.files.wordpress.com/2020/01/screenshot-2020-01-29-at-08.37.08.png)
     - Lecture 8: Building a model of the world for planning and reasoning  
     - Temporal abstraction in RL and the cingulate cortex; Multiple controllers for behaviour; Cognitive maps and the hippocampus; Hierarchical planning; Grid cells and conceptual knowledge  
-    - [Watch video of Lecture 8](https://humaninformationprocessing.com/video-8/)  
+    - [Watch video of Lecture 8](https://videopress.com/v/Il0EzGhB){:target="_blank"}
 
 
 ## Reading list
