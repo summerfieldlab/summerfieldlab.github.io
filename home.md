@@ -14,5 +14,7 @@ Some of the lab punting, summer 2022.
 
 Please also follow us on [Twitter](https://twitter.com/summerfieldlab?lang=en) or [BlueSky](https://bsky.app/profile/summerfieldlab.bsky.social)
 
+** We have a new funding award from the Wellcome Trust and are actively looking for postdocs. please get in touch if you are interested: christopher.summerfield@psy.ox.ac.uk **
+
 For more about us and our work, please follow the menu links above.
 
