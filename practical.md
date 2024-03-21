@@ -31,4 +31,4 @@ We’re always interested in hearing from people who are interested in joining t
 
 - If you are interested in joining as a visiting researcher or student, do write to us. However, we don’t usually take visitors for less than a 6-month stay. All visits have to be approved by a central committee in the department. If you need a visa to study in the UK, unfortunately it’s not usually possible for the department to help with administrative issues.
 
-- There are currently no vacancies for postdocs in the lab. However, if you are interested in applying for a fellowship to work in the lab, please let us know.
+- We have a new funding award from the Wellcome Trust and are actively looking for postdocs. please get in touch if you are interested: christopher.summerfield@psy.ox.ac.uk.
