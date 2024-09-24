@@ -4,9 +4,6 @@ Lab PI:
     img: https://humaninformationprocessing.files.wordpress.com/2019/09/screenshot-2019-09-15-at-10.06.33.png
 
 Postdocs and Fellows:
-  - name: Jacques Pesnot-Lerousseau
-    bio: "Jacques completed his PhD with [Benjamin Morillon](https://scholar.google.fr/citations?user=lBwWtFUAAAAJ&hl=fr) and joins us on a fellowship from [Fondation pour l’audition](https://www.fondationpourlaudition.org/)."
-    img: https://humaninformationprocessing.files.wordpress.com/2022/02/screenshot-2022-02-09-at-21.45.22.png
 
   - name: Mira Dumbalska
     bio: "Mira completed her PhD in Oxford and is now a postdoc funded by [Schmidt Futures](https://www.schmidtfutures.com/)."
@@ -16,6 +13,19 @@ Postdocs and Fellows:
     bio: "[Jess](https://thompsonj.github.io/) completed her PhD with Marc Schonwiesner at [BRAMS](https://brams.org/) and Yoshua Bengio at [MILA](https://mila.quebec/en/). She is now funded by [NSERC](https://www.nserc-crsng.gc.ca/index_eng.asp)."
     img: https://humaninformationprocessing.files.wordpress.com/2021/05/screenshot-2021-05-20-at-16.16.42.png
 
+  - name: Qingtian Mi
+    bio: "[Qingtian](https://www.researchgate.net/profile/Qingtian-Mi) completed his PhD with Lusha Zhu at Peking University. He is now a Peking University Postdoctoral Exchange Fellow."
+    img: https://humaninformationprocessing.wordpress.com/wp-content/uploads/2024/09/screenshot-2024-09-24-at-09.42.25.png
+
+  - name: Franziska Braendle
+    bio: "[Franziska](https://www.kyb.tuebingen.mpg.de/person/104445/250676) completed her PhD with Eric Schulz in Tuebingen."
+    img: https://humaninformationprocessing.files.wordpress.com/2021/05/screenshot-2021-05-20-at-16.16.42.png
+
+  - name: Ellie Holton
+    bio: "completed here PhD in Oxford with [Jill O’Reilly](https://www.neuroscience.ox.ac.uk/research-directory/jill-o-reilly) and [Nils Kolling](https://scholar.google.co.uk/citations?user=Nwpmf4QAAAAJ&hl=en)."
+    img: https://humaninformationprocessing.files.wordpress.com/2022/02/screenshot-2022-02-10-at-11.02.20.png
+
+
 PhD Students and Research Assistants:
   - name: Lukas Braun
     bio: "Lukas is a PhD student co-supervised by [Andrew Saxe](https://www.saxelab.org/)."
@@ -24,10 +34,6 @@ PhD Students and Research Assistants:
   - name: Carla Zoe Cremer
     bio: "Zoe is funded by the [FHI](https://www.fhi.ox.ac.uk/)."
     img: https://humaninformationprocessing.files.wordpress.com/2021/09/screenshot-2021-09-25-at-07.03.46.png
-
-  - name: Ellie Holton
-    bio: "Ellie is a 3rd year PhD student co-supervised by [Jill O’Reilly](https://www.neuroscience.ox.ac.uk/research-directory/jill-o-reilly)."
-    img: https://humaninformationprocessing.files.wordpress.com/2022/02/screenshot-2022-02-10-at-11.02.20.png
   
   - name: Jirko Rubruck
     bio: "Jirko is funded by the ESRC and co-supervised by [Andrew Saxe](https://www.saxelab.org/)."
@@ -183,3 +189,7 @@ Alumni (Postdocs):
   - name: Sophie Arana
     bio: "Sophie is now a Research Manager at the [Alan Turing Institute](https://www.turing.ac.uk/)."
     img: https://humaninformationprocessing.files.wordpress.com/2021/08/screenshot-2021-08-27-at-08.03.56.png
+
+  - name: Jacques Pesnot-Lerousseau
+    bio: "Jacques is now a postdoctoral fellow at the [ILCB](https://www.ilcb.fr/jacques-pesnot-lerousseau/) in Marseille "
+    img: https://humaninformationprocessing.files.wordpress.com/2022/02/screenshot-2022-02-09-at-21.45.22.png
