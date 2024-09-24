@@ -1,6 +1,6 @@
 2024 / In Press:
 
-  - title: Early learning of the optimal constant solution in neural networks and humans
+  - title: Understanding human meta-control and its pathologies using deep neural networks
     authors: Sandbrink et al
     journal: OSF preprints
     paper_url: https://doi.org/10.31219/osf.io/5ezxs
@@ -10,7 +10,7 @@
     authors: Rubruck et al
     journal: arXiv
     paper_url: arXiv preprint arXiv:2406.17467
-    img: https://humaninformationprocessing.files.wordpress.com/2023/04/screenshot-2023-04-16-at-14.20.05.png
+    img: https://humaninformationprocessing.wordpress.com/wp-content/uploads/2024/09/screenshot-2024-09-24-at-09.30.24.png
     
   - title: Zero-shot counting with a dual-stream neural network model
     authors: Thompson et al
@@ -22,7 +22,7 @@
     authors: Sandbrink & Summerfield
     journal: Curr. Op. Behav. Sci.
     paper_url: https://www.sciencedirect.com/science/article/pii/S2352154624000123
-    img: https://humaninformationprocessing.files.wordpress.com/2023/04/screenshot-2023-04-16-at-14.20.05.png
+    img: https://humaninformationprocessing.wordpress.com/wp-content/uploads/2024/09/screenshot-2024-09-24-at-09.30.35.png
 
   - title: Space as scaffold for temporal generalisation
     authors: Pesnot-Larrousseau & Summerfield
