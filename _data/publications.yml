@@ -1,5 +1,17 @@
 e2024 / In Press:
 
+  - title: Abrupt and spontaneous strategy switches emerge in simple regularised neural networks
+    authors: Lowe et al
+    journal: PLOS Computational Biology
+    paper_url: https://arxiv.org/abs/2302.11351
+    img: https://humaninformationprocessing.wordpress.com/wp-content/uploads/2024/10/screenshot-2024-10-04-at-13.02.16-3.png
+    
+    - title: Neural networks with fast and bounded units learn flexible task abstractions
+    authors: Bauer et al
+    journal: NeurIPS
+    paper_url: https://openreview.net/forum?id=AbTpJl7vN6
+    img: https://humaninformationprocessing.wordpress.com/wp-content/uploads/2024/10/screenshot-2024-10-04-at-13.08.24.png
+    
   - title: Understanding human meta-control and its pathologies using deep neural networks
     authors: Sandbrink et al
     journal: OSF preprints
