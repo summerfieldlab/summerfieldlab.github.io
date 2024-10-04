@@ -6,7 +6,7 @@
     paper_url: https://arxiv.org/abs/2302.11351
     img: https://humaninformationprocessing.wordpress.com/wp-content/uploads/2024/10/screenshot-2024-10-04-at-13.02.16-3.png
     
-    - title: Neural networks with fast and bounded units learn flexible task abstractions
+  - title: Neural networks with fast and bounded units learn flexible task abstractions
     authors: Bauer et al
     journal: NeurIPS
     paper_url: https://openreview.net/forum?id=AbTpJl7vN6
