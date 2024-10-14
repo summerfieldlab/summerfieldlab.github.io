@@ -13,7 +13,7 @@ This advanced option course discusses the search for a general theory of learnin
 - ![Lecture 1: Building and understanding brains.](https://humaninformationprocessing.files.wordpress.com/2020/01/screenshot-2020-01-29-at-08.02.31-2.png)
     - Lecture 1: Building and understanding brains.
     - Introduction; Recent advances in AI research; Biological and Artifical Brains; The computational approach; Definitions of intelligence; Good old-fashioned AI
-    - [Watch video of lecture 1](https://videos.files.wordpress.com/b04kSK3D/htbabfs_lecture1_2024_mp4_hd_1080p.original.jpg?w=1799){:target="_blank"}
+    - [Watch video of lecture 1](https://humaninformationprocessing.wordpress.com/wp-content/uploads/2024/10/htbabfs_lecture1_2024.mp4){:target="_blank"}
 
 - ![Lecture 2: Model-free reinforcement learning](https://humaninformationprocessing.files.wordpress.com/2020/01/screenshot-2020-01-29-at-08.32.59.png)
     - Lecture 2: Model-free reinforcement learning
