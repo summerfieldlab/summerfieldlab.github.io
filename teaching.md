@@ -10,9 +10,9 @@ This advanced option course discusses the search for a general theory of learnin
 
 [Download all lecture slides and notes](https://humaninformationprocessing.files.wordpress.com/2020/01/how-to-build-a-brain-from-scratch_all_lectures.pdf?force_download=true)
 
-- ![Lecture 1: Building and understanding brains.](https://humaninformationprocessing.files.wordpress.com/2020/01/screenshot-2020-01-29-at-08.02.31-2.png)
-    - Lecture 1: Building and understanding brains.
-    - Introduction; Recent advances in AI research; Biological and Artifical Brains; The computational approach; Definitions of intelligence; Good old-fashioned AI
+- ![Lecture 1: Building and understanding brains.](https://humaninformationprocessing.wordpress.com/wp-content/uploads/2024/10/screenshot-2024-10-15-at-09.09.46.png)
+    - Lecture 1: A brief history of AI
+    - Introduction; A history of intelligent machines; symbolic AI; the computational approach to mind and brain; deep neural networks; statistical approaches to language modelling and LLMs.
     - [Watch video of lecture 1](https://humaninformationprocessing.wordpress.com/wp-content/uploads/2024/10/htbabfs_lecture1_2024.mp4){:target="_blank"}
 
 - ![Lecture 2: Model-free reinforcement learning](https://humaninformationprocessing.files.wordpress.com/2020/01/screenshot-2020-01-29-at-08.32.59.png)
