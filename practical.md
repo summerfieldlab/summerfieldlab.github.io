@@ -27,8 +27,15 @@ We are alarmed by the world’s inaction over climate change. We are committed t
 
 We’re always interested in hearing from people who are interested in joining the lab. However, please bear in mind the caveats below:
 
-- If you are interested in joining the lab as a PhD student, please first read the information on the Oxford University [Graduate Admissions](https://www.psy.ox.ac.uk/study/graduate) pages. The admissions deadline is in early January each year. Please look carefully at the research topics in the lab; it is hard for us to support applications from students in very different research areas. It’s probably worth pointing out that Oxford offers relatively few funded scholarships, and these are extremely competitive, especially if you are from outside the UK/EU. Please contact the PI with ideas in mind for a proposal.
+- If you are interested in joining the lab as a PhD student, please first read the information on the Oxford University [Graduate Admissions](https://www.psy.ox.ac.uk/study/graduate) pages. The admissions deadline is in early December each yeat. Please look carefully at the research topics in the lab; it is hard for us to support applications from students in very different research areas. It’s probably worth pointing out that Oxford offers relatively few funded scholarships, and these are extremely competitive, especially if you are from outside the UK.
 
-- If you are interested in joining as a visiting researcher or student, do write to us. However, we don’t usually take visitors for less than a 6-month stay. All visits have to be approved by a central committee in the department. If you need a visa to study in the UK, unfortunately it’s not usually possible for the department to help with administrative issues.
+We are not accepting enquiries from any more candidates for 2025 entry.
+
+* new for 2026 entry *
+
+For entry in 2026 (deadeline December 2025), we are starting a new process. Please apply first to the PI <u>by 1 November</u> using this Google form. This will ask you to submit a brief cover statement, CV, and a 1-page proposal sketch. We will 
+
+
+- If you are interested in joining as a visiting researcher or student, do write to us. You will need to have funding for your stay - we can't provide funds or take unpaid interns, and we don’t usually take visitors for less than a 6-month stay. All visits have to be approved by a central committee in the department. If you need a visa to study in the UK, unfortunately it’s not usually possible for the department to help with administrative issues, so it's unlikely to be impossible.
 
 - We have a new funding award from the Wellcome Trust and are actively looking for postdocs. please get in touch if you are interested: christopher.summerfield@psy.ox.ac.uk.
