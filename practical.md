@@ -33,7 +33,7 @@ We are not accepting enquiries from any more candidates for 2025 entry.
 
 * new for 2026 entry *
 
-For entry in 2026 (deadline December 2025), we are starting a new process. Please apply first to the PI by *1 November* using this Google Form (TBC). It will ask you to submit a brief cover statement, CV, and a 1-page proposal sketch. We will get back to you shortly after Nov 1 if we are interested in supporting your application.
+For entry in 2026 (deadline December 2025), we are starting a new process. Please apply first to the PI by *1 November* using this [Google Form]((https://docs.google.com/forms/d/1gjzx6ROu0Z96WIjX_iuMTbTTqWZr_zcyrCO7X3HOcj4/prefill)). It will ask you to submit a brief cover statement, CV, and a 1-page proposal sketch. We will get back to you shortly after Nov 1 if we are interested in supporting your application.
 
 Tips for good proposals
 
