@@ -27,9 +27,6 @@ Postdocs and Fellows:
 
 
 PhD Students and Research Assistants:
-  - name: Lukas Braun
-    bio: "Lukas is a PhD student co-supervised by [Andrew Saxe](https://www.saxelab.org/)."
-    img: https://humaninformationprocessing.files.wordpress.com/2021/09/screenshot-2021-09-25-at-07.06.14.png
 
   - name: Carla Zoe Cremer
     bio: "Zoe is co-supervised by [Matan Mazor](https://www.asc.ox.ac.uk/person/dr-matan-mazor) and is funded by the [FHI](https://www.fhi.ox.ac.uk/)."
@@ -58,10 +55,6 @@ PhD Students and Research Assistants:
   - name: Brian Christian
     bio: "[Brian](https://brianchristian.org) is co-supervised by [Jakob Foerster](https://eng.ox.ac.uk/people/jakob-foerster/)."
     img: https://humaninformationprocessing.files.wordpress.com/2023/10/screenshot-2023-10-25-at-14.18.35.png
-
-  - name: Alex Grogan
-    bio: "Alex is a researcher and software engineer, as well as an MSc student at UCL."
-    img: https://humaninformationprocessing.files.wordpress.com/2024/02/image.png
 
   - name: Alice Zhang
     bio: "Alice is a first year PhD student who was previously a lab manager in Cate Hartley's lab at NYU"
@@ -115,6 +108,10 @@ Alumni (PhD Students / RAs):
   - name: Leonie Glitz
     bio: "Leonie was in the lab for 6 years and defended in 2024. She is now working as a postdoctoral researcher with [Helen Barron](https://www.mrcbndu.ox.ac.uk/people/dr-helen-barron)."
     img: https://humaninformationprocessing.files.wordpress.com/2019/10/screenshot-2019-10-05-at-19.42.48.png
+
+  - name: Lukas Braun
+    bio: "Lukas was co-supervised by [Andrew Saxe](https://www.saxelab.org/). He is now a postdoc with Laura Driscoll at the Allen Institute"
+    img: https://humaninformationprocessing.files.wordpress.com/2021/09/screenshot-2021-09-25-at-07.06.14.png
 
 
 Alumni (Postdocs):
@@ -193,3 +190,7 @@ Alumni (Postdocs):
   - name: Jacques Pesnot-Lerousseau
     bio: "Jacques is now a postdoctoral fellow at the [ILCB](https://www.ilcb.fr/jacques-pesnot-lerousseau/) in Marseille "
     img: https://humaninformationprocessing.files.wordpress.com/2022/02/screenshot-2022-02-09-at-21.45.22.png
+
+  - name: Alex Grogan
+    bio: "Alex was a software engineer in the lab"
+    img: https://humaninformationprocessing.files.wordpress.com/2024/02/image.png
