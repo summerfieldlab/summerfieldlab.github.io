@@ -14,6 +14,7 @@ This advanced option course discusses the search for a general theory of learnin
     - Lecture 1: A brief history of AI
     - Introduction; A history of intelligent machines; symbolic AI; the computational approach to mind and brain; deep neural networks; statistical approaches to language modelling and LLMs.
     - [Watch video of lecture 1](https://humaninformationprocessing.wordpress.com/wp-content/uploads/2024/10/htbabfs_lecture1_2024.mp4){:target="_blank"}
+    - [Watch OLD video of lecture 1](https://humaninformationprocessing.wordpress.com/how-to-build-a-brain-from-scratch-lectures-1-8/){:target="_blank"}
 
 - ![Lecture 2: Model-free reinforcement learning](https://humaninformationprocessing.files.wordpress.com/2020/01/screenshot-2020-01-29-at-08.32.59.png)
     - Lecture 2: Model-free reinforcement learning
