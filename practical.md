@@ -51,4 +51,4 @@ We won't support proposals that are wildly different from the work that we are c
 
 - If you are interested in joining as a visiting researcher or student, do write to us. You will need to have funding for your stay - we can't provide funds or take unpaid interns, and we don’t usually take visitors for less than a 6-month stay. All visits have to be approved by a central committee in the department. If you need a visa to study in the UK, unfortunately it’s not usually possible for the department to help with administrative issues, so it's unlikely to be impossible.
 
-- We have a new funding award from the Wellcome Trust and are actively looking for postdocs. please get in touch if you are interested: christopher.summerfield@psy.ox.ac.uk.
+- We have a new funding award from the Wellcome Trust and are actively looking for postdocs. please get in touch if you are interested: [christopher.summerfield@psy.ox.ac.uk](mailto:christopher.summerfield@psy.ox.ac.uk).
