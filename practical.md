@@ -35,7 +35,7 @@ We are not accepting enquiries from any more candidates for 2025 entry.
 
 For entry in 2026 (deadline December 2025), we are starting a new process. Please apply first to the PI by *1 November* using this [Google Form](https://forms.gle/49Yr3boSRXKtBMpj6). It will ask you to submit a brief cover statement, CV, and a 1-page proposal sketch. We will get back to you shortly after Nov 1 if we are interested in supporting your application.
 
-Tips for good proposals
+### Tips for good proposals
 
 The department requests a 4-page research proposal. The admissions committee will expect to see a proposal with the following elements:
 
