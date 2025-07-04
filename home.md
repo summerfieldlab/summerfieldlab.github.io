@@ -14,7 +14,9 @@ Some of the lab punting, summer 2022.
 
 Please also follow us on [Twitter](https://twitter.com/summerfieldlab?lang=en) or [BlueSky](https://bsky.app/profile/summerfieldlab.bsky.social)
 
-** We have a new funding award from the Wellcome Trust and are actively looking for postdocs. please get in touch if you are interested: christopher.summerfield@psy.ox.ac.uk **
+** We have funding from the Wellcome Trust and Cooperative AI Foundation. We are alwasy interested in hearing from prospective postdocs. Please get in touch if you are interested: christopher.summerfield@psy.ox.ac.uk **
+
+If you would like to apply to the lab as a prospective graduate student (2026 entry), please can you complete this [form](https://docs.google.com/forms/d/e/1FAIpQLScxRnZr2NtpwPiW5Ge0bYdK2JeVewAaOziJY-HdNOFtv7wICw/viewform) before November 1st, 2025.
 
 For more about us and our work, please follow the menu links above.
 
