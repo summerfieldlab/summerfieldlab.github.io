@@ -1,11 +1,38 @@
-2024 / In Press:
+2025 / In Press:
 
-  - title: Goal-directed navigation strategies in humans and deep meta-learning agents
-    authors: Lan, Hunt & Summerfield
-    journal: PsyArXiv
-    paper_url: https://osf.io/preprints/psyarxiv/6x4r2
+ - title: Reward Model Interpretability via Optimal and Pessimal Tokens
+    authors: Christian et al
+    journal: FAccT Proceedings (2025)
+    paper_url: https://dl.acm.org/doi/full/10.1145/3715275.3732068
     img: https://humaninformationprocessing.wordpress.com/wp-content/uploads/2024/11/screenshot-2024-11-01-at-15.51.42-1.png
     
+ - title: Goal-directed navigation strategies in humans and deep meta-learning agents
+    authors: Lan, Hunt & Summerfield
+    journal: in press, PLOS Biology
+    paper_url: https://osf.io/preprints/psyarxiv/6x4r2
+    img: https://humaninformationprocessing.wordpress.com/wp-content/uploads/2024/11/screenshot-2024-11-01-at-15.51.42-1.png
+
+ - title: Early learning of the optimal constant solution in neural networks and humans
+    authors: Rubruck et al
+    journal: CCN Proceedings (2025)
+    paper_url: arXiv preprint arXiv:2406.17467
+    img: https://humaninformationprocessing.wordpress.com/wp-content/uploads/2024/09/screenshot-2024-09-24-at-09.30.24.png
+
+ - title: Humans and neural networks show similar patterns of transfer and interference during continual learning
+    authors: Holton et al
+    journal: PsyArXiv
+    paper_url: https://osf.io/98ksw_v1
+    img: https://humaninformationprocessing.wordpress.com/wp-content/uploads/2024/09/screenshot-2024-09-24-at-09.30.24.png
+
+ - title: Human curriculum learning of a cue combination task
+    authors: Mi and Summerfield
+    journal: PsyArXiv
+    paper_url: https://osf.io/preprints/psyarxiv/jr42g_v1
+    img: https://humaninformationprocessing.wordpress.com/wp-content/uploads/2024/09/screenshot-2024-09-24-at-09.30.24.png
+
+
+2024:
+
   - title: Do humans learn like transformer networks?
     authors: Pesnot-Lerousseau & Summerfield
     journal: PsyArXiv
@@ -29,12 +56,6 @@
     journal: PsyArXiv
     paper_url: https://doi.org/10.31219/osf.io/5ezxs
     img: https://humaninformationprocessing.wordpress.com/wp-content/uploads/2024/09/screenshot-2024-09-24-at-09.30.35.png
-    
-  - title: Early learning of the optimal constant solution in neural networks and humans
-    authors: Rubruck et al
-    journal: arXiv
-    paper_url: arXiv preprint arXiv:2406.17467
-    img: https://humaninformationprocessing.wordpress.com/wp-content/uploads/2024/09/screenshot-2024-09-24-at-09.30.24.png
     
   - title: Zero-shot counting with a dual-stream neural network model
     authors: Thompson et al
