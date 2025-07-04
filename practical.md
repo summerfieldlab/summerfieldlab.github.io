@@ -29,10 +29,6 @@ We’re always interested in hearing from people who are interested in joining t
 
 If you are interested in joining the lab as a PhD student, please first read the information on the Oxford University [Graduate Admissions](https://www.psy.ox.ac.uk/study/graduate) pages. The admissions deadline is in early December each year. Please look carefully at the research topics studied in the lab; it is not possible for us to support applications from students in very different research areas. It’s probably worth pointing out that Oxford offers relatively few funded scholarships, and these are extremely competitive, especially if you are from outside the UK. However, if you have a good academic track record, strong research experience, and ideally publications, prizes and excellent references, then you are in with a chance! We do not support self-funded students or applicants to the MSc by Research programme.
 
-We are not accepting enquiries from any more candidates for 2025 entry.
-
-* new for 2026 entry *
-
 For entry in 2026 (deadline December 2025), we are starting a new process. Please apply first to the PI by *1 November* using this [Google Form](https://forms.gle/49Yr3boSRXKtBMpj6). It will ask you to submit a brief cover statement, CV, and a 1-page proposal sketch. We will get back to you shortly after Nov 1 if we are interested in supporting your application.
 
 ### Tips for good proposals
