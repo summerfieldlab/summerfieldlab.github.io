@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Publications (cognition / neuroscience)
+title: Publications (cog / neuro)
 permalink: /publications/
 ---
 
