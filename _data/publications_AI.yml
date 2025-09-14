@@ -84,4 +84,28 @@
     authors: Tessler et al
     journal: Science (2024)
     paper_url: https://www.science.org/stoken/author-tokens/ST-2196/full
-    img: https://humaninformationprocessing.wordpress.com/wp-content/uploads/2025/09/screenshot-2025-09-14-at-14.41.02.png
+    img: https://humaninformationprocessing.wordpress.com/wp-content/uploads/2025/09/screenshot-2025-09-14-at-15.18.49.png
+
+2023:
+
+  - title: Using the Veil of Ignorance to align AI systems with principles of justice
+    authors: Weidinger et al
+    journal: PNAS (2023)
+    paper_url: https://www.pnas.org/doi/abs/10.1073/pnas.2213709120
+    img: https://humaninformationprocessing.wordpress.com/wp-content/uploads/2025/09/screenshot-2025-09-14-at-15.23.10.png
+
+2022:
+
+  - title: Fine-tuning language models to find agreement among humans with diverse preferences
+    authors: Bakker et al
+    journal: NeurIPS (2022)
+    paper_url: https://proceedings.neurips.cc/paper_files/paper/2022/file/f978c8f3b5f399cae464e85f72e28503-Paper-Conference.pdf
+    img: https://humaninformationprocessing.wordpress.com/wp-content/uploads/2025/09/screenshot-2025-09-14-at-15.18.55.png
+
+  - title: Human-centred mechanism design with Democratic AI
+    authors: Koster et al
+    journal: Nature Human Behaviour (2022)
+    paper_url: https://www.nature.com/articles/s41562-022-01383-x
+    img: https://humaninformationprocessing.wordpress.com/wp-content/uploads/2025/09/screenshot-2025-09-14-at-15.19.42.png
+
+
