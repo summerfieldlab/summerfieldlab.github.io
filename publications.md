@@ -4,7 +4,7 @@ title: Publications (cog / neuro)
 permalink: /publications/
 ---
 
-This is a selected list of publications. You can find a full listing of our work on [Google Scholar](https://scholar.google.com/citations?user=ymlcN9AAAAAJ&hl=en).
+This is a selected list of publications focussed on cognitive science / neuroscience. You can find a full listing of our work on [Google Scholar](https://scholar.google.com/citations?user=ymlcN9AAAAAJ&hl=en).
 
 
 {% for year in site.data.publications %}
