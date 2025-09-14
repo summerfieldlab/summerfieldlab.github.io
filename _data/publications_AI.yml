@@ -1,10 +1,34 @@
 2025 / In Press:
+
+  - title: How will advanced AI systems impact democracy?
+    authors: Summefield et al
+    journal: Nature Human Behaviour (in press)
+    paper_url: arxiv.org/pdf/2409.06729
+    img: https://humaninformationprocessing.wordpress.com/wp-content/uploads/2025/09/screenshot-2025-09-14-at-14.41.02.png
+
+  - title: Deep reinforcement learning can promote sustainable human behaviour in a common-pool resource problem
+    authors: Koster et al
+    journal: Nature Communications (2025)
+    paper_url: https://www.nature.com/articles/s41467-025-58043-7
+    img: https://humaninformationprocessing.wordpress.com/wp-content/uploads/2025/09/screenshot-2025-09-14-at-14.41.57.png
+
+  - title: "Deep mechanism design: Learning social and economic policies for human benefit"
+    authors: Tachetti et al
+    journal: PNAS (2025)
+    paper_url: https://www.pnas.org/doi/abs/10.1073/pnas.2319949121
+    img: https://humaninformationprocessing.wordpress.com/wp-content/uploads/2025/09/screenshot-2025-09-14-at-14.49.21.png
     
   - title: Reward Model Interpretability via Optimal and Pessimal Tokens
     authors: Christian et al
     journal: FacCT Proceedings (2025)
     paper_url: https://dl.acm.org/doi/full/10.1145/3715275.3732068
     img: https://humaninformationprocessing.wordpress.com/wp-content/uploads/2025/07/screenshot-2025-07-04-at-11.11.23.png
+
+  - title: Why human–AI relationships need socioaffective alignment
+    authors: Kirk et al
+    journal: Humanities and Social Sciences Communications (2025)
+    paper_url: https://www.nature.com/articles/s41599-025-04532-5
+    img: https://humaninformationprocessing.wordpress.com/wp-content/uploads/2025/09/screenshot-2025-09-14-at-14.41.25.png
     
   - title: Conversational AI increases political knowledge as effectively as self-directed internet search
     authors: Luettgau et al
@@ -30,18 +54,6 @@
     paper_url: https://arxiv.org/pdf/2507.03409?
     img: https://humaninformationprocessing.wordpress.com/wp-content/uploads/2025/09/screenshot-2025-09-14-at-14.41.50.png
 
-  - title: "Deep mechanism design: Learning social and economic policies for human benefit"
-    authors: Tachetti et al
-    journal: PNAS (2025)
-    paper_url: https://www.pnas.org/doi/abs/10.1073/pnas.2319949121
-    img: https://humaninformationprocessing.wordpress.com/wp-content/uploads/2025/09/screenshot-2025-09-14-at-14.49.21.png
-
-  - title: Why human–AI relationships need socioaffective alignment
-    authors: Kirk et al
-    journal: Humanities and Social Sciences Communications (2025)
-    paper_url: https://www.nature.com/articles/s41599-025-04532-5
-    img: https://humaninformationprocessing.wordpress.com/wp-content/uploads/2025/09/screenshot-2025-09-14-at-14.41.25.png
-
   - title: How Malicious AI Swarms Can Threaten Democracy
     authors: Schroeder et al
     journal: arXiv
@@ -53,12 +65,6 @@
     journal: arXiv (2025)
     paper_url: https://arxiv.org/pdf/2504.02091?
     img: https://humaninformationprocessing.wordpress.com/wp-content/uploads/2025/09/screenshot-2025-09-14-at-14.42.03.png
-
-  - title: Deep reinforcement learning can promote sustainable human behaviour in a common-pool resource problem
-    authors: Koster et al
-    journal: Nature Communications (2025)
-    paper_url: https://www.nature.com/articles/s41467-025-58043-7
-    img: https://humaninformationprocessing.wordpress.com/wp-content/uploads/2025/09/screenshot-2025-09-14-at-14.41.57.png
 
   - title: Language agents as digital representatives in collective decision-making
     authors: Jarrett et al
@@ -72,11 +78,7 @@
     paper_url: https://knightcolumbia.org/content/can-ai-mediation-improve-democratic-deliberation
     img: https://humaninformationprocessing.wordpress.com/wp-content/uploads/2025/09/screenshot-2025-09-14-at-14.41.02.png
 
-  - title: How will advanced AI systems impact democracy?
-    authors: Summefield et al
-    journal: Nature Human Behaviour (in press)
-    paper_url: arxiv.org/pdf/2409.06729
-    img: https://humaninformationprocessing.wordpress.com/wp-content/uploads/2025/09/screenshot-2025-09-14-at-14.41.02.png
+
 
 2024:
 
