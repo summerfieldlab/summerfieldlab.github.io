@@ -4,7 +4,7 @@ title: Publications (AI / society)
 permalink: /publications_AI/
 ---
 
-This is a selected list of publications focusses on sociotechnical AI research. You can find a full listing of our work on [Google Scholar](https://scholar.google.com/citations?user=ymlcN9AAAAAJ&hl=en).
+This is a selected list of publications focusses on sociotechnical AI research and AI safety. You can find a full listing of our work on [Google Scholar](https://scholar.google.com/citations?user=ymlcN9AAAAAJ&hl=en).
 
 
 {% for year in site.data.publications_AI %}
