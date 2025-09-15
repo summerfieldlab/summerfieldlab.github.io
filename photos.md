@@ -8,6 +8,101 @@ Some pictures of lab members past and present having fun (and even a few of us d
 
 <div class="photo-grid">
 
+<figure>
+  <img src="an occasion.jpg" alt="an occasion">
+  <figcaption>an occasion</figcaption>
+</figure>
+
+<figure>
+  <img src="at the royal society.jpg" alt="at the royal society">
+  <figcaption>at the royal society</figcaption>
+</figure>
+
+<figure>
+  <img src="brian and franziska going to RLDM.jpg" alt="brian and franziska going to RLDM">
+  <figcaption>brian and franziska going to RLDM</figcaption>
+</figure>
+
+<figure>
+  <img src="chris is a cyclologist, with gauss.jpg" alt="chris is a cyclologist, with gauss">
+  <figcaption>chris is a cyclologist, with gauss</figcaption>
+</figure>
+
+<figure>
+  <img src="chris_book.jpg" alt="chris_book">
+  <figcaption>chris_book</figcaption>
+</figure>
+
+<figure>
+  <img src="christmas 2024 with dancing.jpg" alt="christmas 2024 with dancing">
+  <figcaption>christmas 2024 with dancing</figcaption>
+</figure>
+
+<figure>
+  <img src="christmas 2024.jpg" alt="christmas 2024">
+  <figcaption>christmas 2024</figcaption>
+</figure>
+
+<figure>
+  <img src="congrats to jacques.jpeg" alt="congrats to jacques">
+  <figcaption>congrats to jacques</figcaption>
+</figure>
+
+<figure>
+  <img src="ellie's viva dinner.jpg" alt="ellie's viva dinner">
+  <figcaption>ellie's viva dinner</figcaption>
+</figure>
+
+<figure>
+  <img src="kai and david.jpg" alt="kai and david">
+  <figcaption>kai and david</figcaption>
+</figure>
+
+<figure>
+  <img src="lab hike.jpg" alt="lab hike">
+  <figcaption>lab hike</figcaption>
+</figure>
+
+<figure>
+  <img src="leonie celebrating thesis.jpg" alt="leonie celebrating thesis">
+  <figcaption>leonie celebrating thesis</figcaption>
+</figure>
+
+<figure>
+  <img src="lockdown lab party.jpg" alt="lockdown lab party">
+  <figcaption>lockdown lab party</figcaption>
+</figure>
+
+<figure>
+  <img src="more lab hike.jpg" alt="more lab hike">
+  <figcaption>more lab hike</figcaption>
+</figure>
+
+<figure>
+  <img src="much loved plant.jpg" alt="much loved plant">
+  <figcaption>much loved plant</figcaption>
+</figure>
+
+<figure>
+  <img src="scanning in granada.jpg" alt="scanning in granada">
+  <figcaption>scanning in granada</figcaption>
+</figure>
+
+<figure>
+  <img src="some conference.jpg" alt="some conference">
+  <figcaption>some conference</figcaption>
+</figure>
+
+<figure>
+  <img src="squircle and plants at NRB.png" alt="squircle and plants at NRB">
+  <figcaption>squircle and plants at NRB</figcaption>
+</figure>
+
+<figure>
+  <img src="turf tavern.jpg" alt="turf tavern">
+  <figcaption>turf tavern</figcaption>
+</figure>
+
   <figure>
     <img src="https://humaninformationprocessing.wordpress.com/wp-content/uploads/2024/04/img_1239.jpg" alt="Victorious in the Wellbeing Week Treasure Hunt">
     <figcaption>Victorious in the Wellbeing Week Treasure Hunt</figcaption>
