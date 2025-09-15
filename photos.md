@@ -19,11 +19,6 @@ Some pictures of lab members past and present having fun (and even a few of us d
 </figure>
 
 <figure>
-  <img src="/assets/images/chris_book.jpg" alt="chris_book">
-  <figcaption>chris with his first book</figcaption>
-</figure>
-
-<figure>
   <img src="/assets/images/christmas 2024.jpg" alt="christmas 2024">
   <figcaption>christmas 2024</figcaption>
 </figure>
@@ -34,8 +29,8 @@ Some pictures of lab members past and present having fun (and even a few of us d
 </figure>
 
 <figure>
-  <img src="/assets/images/congrats to jacques.jpeg" alt="congrats to jacques">
-  <figcaption>congrats to jacques</figcaption>
+  <img src="/assets/images/chris_book.jpg" alt="chris_book">
+  <figcaption>chris with his first book</figcaption>
 </figure>
 
 <figure>
@@ -150,6 +145,11 @@ Some pictures of lab members past and present having fun (and even a few of us d
 </figure>
 
 <figure>
+  <img src="/assets/images/congrats to jacques.jpeg" alt="congrats to jacques">
+  <figcaption>congrats to jacques</figcaption>
+</figure>
+
+<figure>
   <img src="https://humaninformationprocessing.files.wordpress.com/2019/09/2aea5dbb-3b62-4834-8efa-c93fe3a0b16b-2.jpg" alt="Punting">
   <figcaption>Punting</figcaption>
 </figure>
@@ -157,12 +157,6 @@ Some pictures of lab members past and present having fun (and even a few of us d
 <figure>
   <img src="https://humaninformationprocessing.files.wordpress.com/2019/09/dc635ec3-5c6d-4e3f-a01d-05fc74590691-2.jpg" alt="No clue what Vickie is doing">
   <figcaption>No clue what Vickie is doing</figcaption>
-</figure>
-
-
-<figure>
-  <img src="https://humaninformationprocessing.files.wordpress.com/2019/09/09333012-a0c5-46f6-be2e-30fa671f6dac-2.jpg" alt="Punting">
-  <figcaption>Punting</figcaption>
 </figure>
 
 
@@ -184,6 +178,11 @@ Some pictures of lab members past and present having fun (and even a few of us d
 <figure>
   <img src="https://humaninformationprocessing.files.wordpress.com/2019/09/img_0262-3.jpg" alt="Cosyne gets a bit much for Fabrice">
   <figcaption>Cosyne gets a bit much for Fabrice</figcaption>
+</figure>
+
+<figure>
+  <img src="https://humaninformationprocessing.files.wordpress.com/2019/09/09333012-a0c5-46f6-be2e-30fa671f6dac-2.jpg" alt="Punting">
+  <figcaption>Punting</figcaption>
 </figure>
 
 
