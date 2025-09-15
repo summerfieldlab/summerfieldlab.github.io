@@ -6,7 +6,7 @@ permalink: /projects/
 
 ## Current Projects / Funding
 
-We are currently funded by the [Wellcome Trust](https://wellcome.ac.uk/) and the [Cooperative AI Foundation](https://cooperativeai.org). Students have funding from diverse sources, including the [Medical Research Council UK](https://mrc.ukri.org), the [Economic and Social Research Council UK](https://esrc.ukri.org) as well as private sources.
+We are currently funded by the [Wellcome Trust](https://wellcome.ac.uk/) and the [Cooperative AI Foundation](https://cooperativeai.org). Students have funding from diverse sources, including the [Medical Research Council UK](https://mrc.ukri.org), the [Economic and Social Research Council UK](https://esrc.ukri.org), the [Clarendon Fund](https://www.clarendonscholarsassociation.co.uk/about-the-fund) as well as private sources.
 
 Currently, major projects in the lab include the following:
 
