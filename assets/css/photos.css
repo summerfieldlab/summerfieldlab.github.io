@@ -1,0 +1,16 @@
+.photo-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+  gap: 1rem;
+}
+
+.photo-grid figure {
+  margin: 0;
+  text-align: center;
+}
+
+.photo-grid img {
+  width: 100%;
+  height: auto;
+  border-radius: 8px; /* optional rounded corners */
+}
