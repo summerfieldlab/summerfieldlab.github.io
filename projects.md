@@ -16,13 +16,13 @@ We want to understand the principles by which humans learn, and to find ways to 
 
 Recent papers:
 
-[Holton et al](https://osf.io/preprints/psyarxiv/98ksw_v1)
+[Holton et al](https://osf.io/preprints/psyarxiv/98ksw_v1) Humans and neural networks show similar patterns of transfer and interference during continual learning. In press, Nature Human Behaviour.
 
-[Pesnot-Lerousseau and Summerfield](https://osf.io/ryn8d_v1)
+[Pesnot-Lerousseau and Summerfield](https://osf.io/ryn8d_v1). Do humans learn like transformer networks? In press, Nature Human Behaviour.
 
-[Mi and Summerfield](https://osf.io/preprints/psyarxiv/jr42g_v1)
+[Mi and Summerfield](https://osf.io/preprints/psyarxiv/jr42g_v1). Curriculum learning of a cue combination task. PsyarXiv preprint.
 
-[Thompson et al](https://www.cell.com/neuron/fulltext/S0896-6273(24)00729-3)
+[Thompson et al](https://www.cell.com/neuron/fulltext/S0896-6273(24)00729-3). Zero-shot counting in a dual-streams neural network. Neuron 2025.
 
 **2. Human intrinsic motivation**
 
@@ -30,9 +30,9 @@ What motivates us to achieve our goals? Whilst people respond to rewards and pun
 
 Recent papers:
 
-[Sandbrink et al](https://osf.io/5ezxs_v2/)
+[Sandbrink et al](https://osf.io/5ezxs_v2/). Understanding human meta-control and its pathologies using deep neural networks. PsyarXiv preprint.
 
-[Christian et al](https://arxiv.org/abs/2506.07326)
+[Christian et al](https://arxiv.org/abs/2506.07326). Reward Model Interpretability via Optimal and Pessimal Tokens. ACM Conference on Fairness, Accountability, and Transparency (Oral).
 
 **3. Using AI to promote cooperation**
 
@@ -40,9 +40,9 @@ Many global challenges, like climate change and social justice, are problems col
 
 Recent papers:
 
-[Tessler et al 2024](https://www.science.org/stoken/author-tokens/ST-2196/full)
+[Tessler et al 2024](https://www.science.org/stoken/author-tokens/ST-2196/full). AI can help humans find common ground in democratic deliberation. Science 2024.
 
-[Koster et al 2025](https://www.nature.com/articles/s41467-025-58043-7)
+[Koster et al 2025](https://www.nature.com/articles/s41467-025-58043-7). Using deep reinforcement learning to promote sustainable human behaviour on a common pool resource problem. Nature Communications 2025.
 
 
 ## Past Projects / Funding
