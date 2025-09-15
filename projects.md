@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Projects/Talks
+title: Projects
 permalink: /projects/
 ---
 
