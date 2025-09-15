@@ -10,30 +10,38 @@ We are currently funded by the [Wellcome Trust](https://wellcome.ac.uk/) and the
 
 Currently, major projects in the lab include the following:
 
-1. Learning in humans and machines
+**1. Learning in humans and machines**
 
 We want to understand the principles by which humans learn, and to find ways to help people learn faster and more effectively. Using behavioural research, mathematical modelling, and brain imaging, we examine the way that people acquire knowledge and how patterns of brain activity change during this process. A major focus is how humans can learn and generalise both structure and contents of experienced data. We compare these changes to those that occur during learning in deep neural networks. We study how different curricula help and hinder learning, and why they do so, and are using machine learning tools to design new training regimes that promote learning. 
 
 Recent papers:
+
 [Holton et al](https://osf.io/preprints/psyarxiv/98ksw_v1)
+
 [Pesnot-Lerousseau and Summerfield](https://osf.io/ryn8d_v1)
+
 [Mi and Summerfield](https://osf.io/preprints/psyarxiv/jr42g_v1)
+
 [Thompson et al](https://www.cell.com/neuron/fulltext/S0896-6273(24)00729-3)
 
-2. Human intrinsic motivation
+**2. Human intrinsic motivation**
 
 What motivates us to achieve our goals? Whilst people respond to rewards and punishments, they are also intrinsically motivated, that is, they seek to achieve ends for their own sake. We want to understand the principles that underlie human intrinsic motivation, and especially to understand how humans combine an impluse for curiosity with the need to control their environment. We are also interested in human preferences over technology, including AI, and how AI systems can be trained to behave in ways that meet human needs and preferences.
 
 Recent papers:
+
 [Sandbrink et al](https://osf.io/5ezxs_v2/)
+
 [Christian et al](https://arxiv.org/abs/2506.07326)
 
-3. Using AI to promote cooperation
+**3. Using AI to promote cooperation**
 
 Many global challenges, like climate change and social justice, are problems collective action. Humans need to agree in order to decide how to divide assets or coordinate behaviour. We study how AI can be used to assist with this process, fairly and beneficially.
 
-Example papers:
+Recent papers:
+
 [Tessler et al 2024](https://www.science.org/stoken/author-tokens/ST-2196/full)
+
 [Koster et al 2025](https://www.nature.com/articles/s41467-025-58043-7)
 
 
