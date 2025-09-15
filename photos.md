@@ -125,6 +125,11 @@ Some pictures of lab members past and present having fun (and even a few of us d
 </figure>
 
 <figure>
+  <img src="https://humaninformationprocessing.files.wordpress.com/2019/09/1050ce32-76c0-48a9-a319-2086e98042e1-2.jpg" alt="Cosyne 2019">
+  <figcaption>Cosyne 2019</figcaption>
+</figure>
+
+<figure>
   <img src="https://humaninformationprocessing.files.wordpress.com/2019/09/80b58ead-4a88-4398-82d3-393e1f6db75c-2.jpg" alt="Ice creams at Cosyne">
   <figcaption>Ice creams at Cosyne</figcaption>
 </figure>
@@ -133,11 +138,6 @@ Some pictures of lab members past and present having fun (and even a few of us d
     <img src="https://humaninformationprocessing.files.wordpress.com/2019/09/20190614_163047-1.jpg" alt="Leonie (with Tania) scanning in Granada">
     <figcaption>Leonie (with Tania) scanning in Granada</figcaption>
   </figure>
-
-<figure>
-  <img src="https://humaninformationprocessing.files.wordpress.com/2019/09/1050ce32-76c0-48a9-a319-2086e98042e1-2.jpg" alt="Cosyne 2019">
-  <figcaption>Cosyne 2019</figcaption>
-</figure>
 
 <figure>
   <img src="https://humaninformationprocessing.files.wordpress.com/2019/09/screenshot-2019-09-15-at-15.17.06.png" alt="Some of the lab (+Felix!) punting, summer 2019">
