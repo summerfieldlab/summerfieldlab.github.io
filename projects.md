@@ -5,7 +5,7 @@ permalink: /projects/
 ---
 
 
-## Talks by Lab Members
+## Talks by Chris
 
 [Link](https://www.youtube.com/watch?v=i__L-4d7EfE) to Chris talking about the Habermas Machine (Toronto)
 
@@ -16,8 +16,6 @@ permalink: /projects/
 [Link](https://drive.google.com/file/d/1snPJKI0obmy-or8jr7pehbYNC3MUZI8u/view) to Chris talking about the rationality of distorted perception and valuation (CogSci 2020)
 
 [Link](https://www.youtube.com/watch?v=k-MEa1d0X4Q&ab_channel=MaxPlanckInstituteforBiologicalCybernetics) to Chris talking about knowledge partitioning (Tuebingen)
-
-[Link](https://youtu.be/dM-OCvTz0RA?t=9401) to Leonie talking about structure learning in planning.
 
 [Link](https://www.youtube.com/watch?v=WDMmr6l8pFs&t=1s) to Chris talking about human-centred AI.
 
@@ -32,6 +30,10 @@ Chris talking about neural structure aligment in humans and neural networks:
 Chris talking about human transfer learning at Cosyne workshop (2022):
 
 <iframe title="VideoPress Video Player" aria-label="VideoPress Video Player" width="748.8125" height="405.4399231283423" src="https://video.wordpress.com/embed/I6Ry1bEn?cover=1&amp;preloadContent=metadata&amp;useAverageColor=1&amp;hd=0" frameborder="0" allowfullscreen="" data-resize-to-parent="true" allow="clipboard-write"></iframe><script src="https://v0.wordpress.com/js/next/videopress-iframe.js?m=1674852142"></script>
+
+## Talks by other lab members
+
+[Link](https://youtu.be/dM-OCvTz0RA?t=9401) to Leonie talking about structure learning in planning.
 
 ## Podcasts etc
 
