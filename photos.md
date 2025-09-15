@@ -39,7 +39,7 @@ Some pictures of lab members past and present having fun (and even a few of us d
 </figure>
 
 <figure>
-  <img src="christmas 2024.jpg" alt="christmas 2024">
+  <img src="/assets/images/christmas 2024.jpg" alt="christmas 2024">
   <figcaption>christmas 2024</figcaption>
 </figure>
 
