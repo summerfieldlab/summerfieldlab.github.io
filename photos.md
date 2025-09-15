@@ -6,6 +6,23 @@ permalink: /photos/
 
 Some pictures of lab members past and present having fun (and even a few of us doing science). Taken at dinners, outings, vivas, marriages, conferences, and everywhere else!
 
+<div class="photo-grid">
+
+  <figure>
+    <img src="https://humaninformationprocessing.wordpress.com/wp-content/uploads/2024/04/img_1239.jpg" alt="Victorious in the Wellbeing Week Treasure Hunt">
+    <figcaption>Victorious in the Wellbeing Week Treasure Hunt</figcaption>
+  </figure>
+
+  <figure>
+    <img src="https://humaninformationprocessing.files.wordpress.com/2019/09/20190614_163047-1.jpg" alt="Leonie (with Tania) scanning in Granada">
+    <figcaption>Leonie (with Tania) scanning in Granada</figcaption>
+  </figure>
+
+  <!-- Add more figures here -->
+
+</div>
+
+
 ## Victorious in the Wellbeing Week Treasure Hunt
 ![Victorious in the Wellbeing Week Treasure Hunt](https://humaninformationprocessing.wordpress.com/wp-content/uploads/2024/04/img_1239.jpg)
 
