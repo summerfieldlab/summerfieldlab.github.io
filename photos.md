@@ -79,11 +79,6 @@ Some pictures of lab members past and present having fun (and even a few of us d
   <figcaption>much loved plant</figcaption>
 </figure>
 
-  <figure>
-    <img src="https://humaninformationprocessing.wordpress.com/wp-content/uploads/2024/04/img_1239.jpg" alt="Victorious in the Wellbeing Week Treasure Hunt">
-    <figcaption>Victorious in the Wellbeing Week Treasure Hunt</figcaption>
-  </figure>
-
 <figure>
   <img src="/assets/images/scanning in granada.jpg" alt="scanning in granada">
   <figcaption>scanning in granada</figcaption>
@@ -108,6 +103,12 @@ Some pictures of lab members past and present having fun (and even a few of us d
   <img src="https://humaninformationprocessing.files.wordpress.com/2019/09/img-20190826-wa0023-1.jpg" alt="Keno’s viva dinner">
   <figcaption>Keno’s viva dinner</figcaption>
   </figure>
+
+  <figure>
+    <img src="https://humaninformationprocessing.wordpress.com/wp-content/uploads/2024/04/img_1239.jpg" alt="Victorious in the Wellbeing Week Treasure Hunt">
+    <figcaption>Victorious in the Wellbeing Week Treasure Hunt</figcaption>
+  </figure>
+
 
   <figure>
   <img src="https://humaninformationprocessing.files.wordpress.com/2019/09/whatsapp-image-2019-08-12-at-17.57.40-2.jpeg" alt="Vickie’s viva">
