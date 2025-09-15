@@ -9,32 +9,32 @@ Some pictures of lab members past and present having fun (and even a few of us d
 <div class="photo-grid">
 
 <figure>
-  <img src="an occasion.jpg" alt="an occasion">
+  <img src="/assets/images/an occasion.jpg" alt="an occasion">
   <figcaption>an occasion</figcaption>
 </figure>
 
 <figure>
-  <img src="at the royal society.jpg" alt="at the royal society">
+  <img src="/assets/images/at the royal society.jpg" alt="at the royal society">
   <figcaption>at the royal society</figcaption>
 </figure>
 
 <figure>
-  <img src="brian and franziska going to RLDM.jpg" alt="brian and franziska going to RLDM">
+  <img src="/assets/images/brian and franziska going to RLDM.jpg" alt="brian and franziska going to RLDM">
   <figcaption>brian and franziska going to RLDM</figcaption>
 </figure>
 
 <figure>
-  <img src="chris is a cyclologist, with gauss.jpg" alt="chris is a cyclologist, with gauss">
+  <img src="/assets/images/chris is a cyclologist, with gauss.jpg" alt="chris is a cyclologist, with gauss">
   <figcaption>chris is a cyclologist, with gauss</figcaption>
 </figure>
 
 <figure>
-  <img src="chris_book.jpg" alt="chris_book">
+  <img src="/assets/images/chris_book.jpg" alt="chris_book">
   <figcaption>chris_book</figcaption>
 </figure>
 
 <figure>
-  <img src="christmas 2024 with dancing.jpg" alt="christmas 2024 with dancing">
+  <img src="/assets/images/christmas 2024 with dancing.jpg" alt="christmas 2024 with dancing">
   <figcaption>christmas 2024 with dancing</figcaption>
 </figure>
 
