@@ -19,11 +19,6 @@ Some pictures of lab members past and present having fun (and even a few of us d
 </figure>
 
 <figure>
-  <img src="/assets/images/an occasion.jpg" alt="an occasion">
-  <figcaption>an occasion</figcaption>
-</figure>
-
-<figure>
   <img src="/assets/images/chris_book.jpg" alt="chris_book">
   <figcaption>chris_book</figcaption>
 </figure>
@@ -44,8 +39,8 @@ Some pictures of lab members past and present having fun (and even a few of us d
 </figure>
 
 <figure>
-  <img src="/assets/images/ellie's viva dinner.jpg" alt="ellie's viva dinner">
-  <figcaption>ellie's viva dinner</figcaption>
+  <img src="/assets/images/an occasion.jpg" alt="an occasion">
+  <figcaption>an occasion</figcaption>
 </figure>
 
 <figure>
@@ -69,6 +64,17 @@ Some pictures of lab members past and present having fun (and even a few of us d
 </figure>
 
 <figure>
+  <img src="/assets/images/squircle and plants at NRB.png" alt="squircle and plants at NRB">
+  <figcaption>squircle and plants at NRB</figcaption>
+</figure>
+
+<figure>
+  <img src="/assets/images/turf tavern.jpg" alt="turf tavern">
+  <figcaption>turf tavern</figcaption>
+</figure>
+
+
+<figure>
   <img src="/assets/images/more lab hike.jpg" alt="more lab hike">
   <figcaption>more lab hike</figcaption>
 </figure>
@@ -89,19 +95,15 @@ Some pictures of lab members past and present having fun (and even a few of us d
 </figure>
 
 <figure>
+  <img src="/assets/images/ellie's viva dinner.jpg" alt="ellie's viva dinner">
+  <figcaption>ellie's viva dinner</figcaption>
+</figure>
+
+<figure>
   <img src="/assets/images/some conference.jpg" alt="some conference">
   <figcaption>some conference</figcaption>
 </figure>
 
-<figure>
-  <img src="/assets/images/squircle and plants at NRB.png" alt="squircle and plants at NRB">
-  <figcaption>squircle and plants at NRB</figcaption>
-</figure>
-
-<figure>
-  <img src="turf tavern.jpg" alt="turf tavern">
-  <figcaption>turf tavern</figcaption>
-</figure>
 
   <figure>
     <img src="https://humaninformationprocessing.wordpress.com/wp-content/uploads/2024/04/img_1239.jpg" alt="Victorious in the Wellbeing Week Treasure Hunt">
