@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Projects/Talks
-permalink: /projects/
+title: Talks
+permalink: /talks/
 ---
 
 
