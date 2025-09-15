@@ -1,14 +1,45 @@
 ---
 layout: page
-title: Projects
+title: Research
 permalink: /projects/
 ---
 
-## Projects / Funding
+## Current Projects / Funding
 
-We are funded by the [European Research Council](https://erc.europa.eu), the [Human Brain Project](https://www.humanbrainproject.eu/en/), the [Wellcome Trust](https://wellcome.ac.uk/), the [Medical Research Council UK](https://mrc.ukri.org), the [Economic and Social Research Council UK](https://esrc.ukri.org), and private sources including [Schmidt Futures](https://www.risefortheworld.org/). We are grateful to all our funders for their generous support.
+We are currently funded by the [Wellcome Trust](https://wellcome.ac.uk/) and the [Cooperative AI Foundation](https://cooperativeai.org). Students have funding from diverse sources, including the [Medical Research Council UK](https://mrc.ukri.org), the [Economic and Social Research Council UK](https://esrc.ukri.org) as well as private sources.
 
 Currently, major projects in the lab include the following:
+
+1. Learning in humans and machines
+
+We want to understand the principles by which humans learn, and to find ways to help people learn faster and more effectively. Using behavioural research, mathematical modelling, and brain imaging, we examine the way that people acquire knowledge and how patterns of brain activity change during this process. A major focus is how humans can learn and generalise both structure and contents of experienced data. We compare these changes to those that occur during learning in deep neural networks. We study how different curricula help and hinder learning, and why they do so, and are using machine learning tools to design new training regimes that promote learning. 
+
+Recent papers:
+[Holton et al](https://osf.io/preprints/psyarxiv/98ksw_v1)
+[Pesnot-Lerousseau and Summerfield](https://osf.io/ryn8d_v1)
+[Mi and Summerfield](https://osf.io/preprints/psyarxiv/jr42g_v1)
+[Thompson et al](https://www.cell.com/neuron/fulltext/S0896-6273(24)00729-3)
+
+2. Human intrinsic motivation
+
+What motivates us to achieve our goals? Whilst people respond to rewards and punishments, they are also intrinsically motivated, that is, they seek to achieve ends for their own sake. We want to understand the principles that underlie human intrinsic motivation, and especially to understand how humans combine an impluse for curiosity with the need to control their environment. We are also interested in human preferences over technology, including AI, and how AI systems can be trained to behave in ways that meet human needs and preferences.
+
+Recent papers:
+[Sandbrink et al](https://osf.io/5ezxs_v2/)
+[Christian et al](https://arxiv.org/abs/2506.07326)
+
+3. Using AI to promote cooperation
+
+Many global challenges, like climate change and social justice, are problems collective action. Humans need to agree in order to decide how to divide assets or coordinate behaviour. We study how AI can be used to assist with this process, fairly and beneficially.
+
+Example papers:
+[Tessler et al 2024](https://www.science.org/stoken/author-tokens/ST-2196/full)
+[Koster et al 2025](https://www.nature.com/articles/s41467-025-58043-7)
+
+
+## Past Projects / Funding
+
+In the past we have been funded by the [European Research Council](https://erc.europa.eu), the [Human Brain Project](https://www.humanbrainproject.eu/en/), [Schmidt Futures](https://www.risefortheworld.org/) and others. We are grateful to all our funders for their generous support.
 
 ![European Research Council](https://humaninformationprocessing.files.wordpress.com/2019/09/erc.jpeg)
 
@@ -19,7 +50,6 @@ The goal of this project is to understand how humans acquire conceptual knowledg
 1. How do neural representations in the human brain change during concept acquisition?
 2. How do humans learn to perform of multiple tasks at once, and encode task representations in a way that avoids interference?
 3. How can we build computational models, such as neural networks, that learn and generalise new abstract concepts?
-
 
 <img src="https://humaninformationprocessing.files.wordpress.com/2019/09/hbp.png" alt="Human Brain Project" width="306"/>
 
