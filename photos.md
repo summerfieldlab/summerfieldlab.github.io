@@ -9,11 +9,6 @@ Some pictures of lab members past and present having fun (and even a few of us d
 <div class="photo-grid">
 
 <figure>
-  <img src="/assets/images/an occasion.jpg" alt="an occasion">
-  <figcaption>an occasion</figcaption>
-</figure>
-
-<figure>
   <img src="/assets/images/at the royal society.jpg" alt="at the royal society">
   <figcaption>at the royal society</figcaption>
 </figure>
@@ -24,8 +19,8 @@ Some pictures of lab members past and present having fun (and even a few of us d
 </figure>
 
 <figure>
-  <img src="/assets/images/chris is a cyclologist, with gauss.jpg" alt="chris is a cyclologist, with gauss">
-  <figcaption>chris is a cyclologist, with gauss</figcaption>
+  <img src="/assets/images/an occasion.jpg" alt="an occasion">
+  <figcaption>an occasion</figcaption>
 </figure>
 
 <figure>
@@ -44,57 +39,62 @@ Some pictures of lab members past and present having fun (and even a few of us d
 </figure>
 
 <figure>
-  <img src="congrats to jacques.jpeg" alt="congrats to jacques">
+  <img src="/assets/images/congrats to jacques.jpeg" alt="congrats to jacques">
   <figcaption>congrats to jacques</figcaption>
 </figure>
 
 <figure>
-  <img src="ellie's viva dinner.jpg" alt="ellie's viva dinner">
+  <img src="/assets/images/ellie's viva dinner.jpg" alt="ellie's viva dinner">
   <figcaption>ellie's viva dinner</figcaption>
 </figure>
 
 <figure>
-  <img src="kai and david.jpg" alt="kai and david">
+  <img src="/assets/images/kai and david.jpg" alt="kai and david">
   <figcaption>kai and david</figcaption>
 </figure>
 
 <figure>
-  <img src="lab hike.jpg" alt="lab hike">
+  <img src="/assets/images/lab hike.jpg" alt="lab hike">
   <figcaption>lab hike</figcaption>
 </figure>
 
 <figure>
-  <img src="leonie celebrating thesis.jpg" alt="leonie celebrating thesis">
+  <img src="/assets/images/leonie celebrating thesis.jpg" alt="leonie celebrating thesis">
   <figcaption>leonie celebrating thesis</figcaption>
 </figure>
 
 <figure>
-  <img src="lockdown lab party.jpg" alt="lockdown lab party">
+  <img src="/assets/images/lockdown lab party.jpg" alt="lockdown lab party">
   <figcaption>lockdown lab party</figcaption>
 </figure>
 
 <figure>
-  <img src="more lab hike.jpg" alt="more lab hike">
+  <img src="/assets/images/more lab hike.jpg" alt="more lab hike">
   <figcaption>more lab hike</figcaption>
 </figure>
 
 <figure>
-  <img src="much loved plant.jpg" alt="much loved plant">
+  <img src="/assets/images/much loved plant.jpg" alt="much loved plant">
   <figcaption>much loved plant</figcaption>
 </figure>
 
 <figure>
-  <img src="scanning in granada.jpg" alt="scanning in granada">
+  <img src="/assets/images/scanning in granada.jpg" alt="scanning in granada">
   <figcaption>scanning in granada</figcaption>
 </figure>
 
 <figure>
-  <img src="some conference.jpg" alt="some conference">
+  <img src="/assets/images/chris is a cyclologist, with gauss.jpg" alt="chris is a cyclologist, with gauss">
+  <figcaption>chris is a cyclologist, with gauss</figcaption>
+</figure>
+
+<figure>
+  <img src="/assets/images/some conference.jpg" alt="some conference">
   <figcaption>some conference</figcaption>
 </figure>
 
 <figure>
-  <img src="squircle and plants at NRB.png" alt="squircle and plants at NRB">
+  <img src="/assets/images/squircle and plants at NRB.png" alt="squircle and plants at NRB">
   <figcaption>squircle and plants at NRB</figcaption>
 </figure>
 
