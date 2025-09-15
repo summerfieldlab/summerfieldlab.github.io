@@ -4,7 +4,7 @@ title: Photos
 permalink: /photos/
 ---
 
-Some pictures of lab members past and present having fun (and even a few of us doing science). Taken at dinners, outings, vivas, marriages, conferences, and everywhere else!
+Some pictures of lab members past and present having fun (and even a few of us doing science). Taken at dinners, outings, vivas, marriages, conferences, babies, and everything else!
 
 <div class="photo-grid">
 
