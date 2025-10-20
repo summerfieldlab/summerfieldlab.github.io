@@ -18,5 +18,7 @@ Please also follow us on [Twitter](https://twitter.com/summerfieldlab?lang=en) o
 
 If you would like to apply to the lab as a prospective graduate student (2026 entry), please can you complete this [form](https://docs.google.com/forms/d/e/1FAIpQLScxRnZr2NtpwPiW5Ge0bYdK2JeVewAaOziJY-HdNOFtv7wICw/viewform) before November 1st, 2025.
 
+Chris does not travel by air to give talks. See my [flightless professors](https://flightlessprofessors.wordpress.com/) page.
+
 For more about us and our work, please follow the menu links above.
 
