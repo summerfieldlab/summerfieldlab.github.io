@@ -6,6 +6,12 @@
     paper_url: https://arxiv.org/pdf/2507.19218
     img: https://humaninformationprocessing.wordpress.com/wp-content/uploads/2025/09/screenshot-2025-09-14-at-14.41.10.png
 
+  - title: How Malicious AI Swarms Can Threaten Democracy
+    authors: Schroeder et al
+    journal: Science
+    paper_url: https://www.science.org/doi/10.1126/science.adz1697
+    img: https://humaninformationprocessing.wordpress.com/wp-content/uploads/2025/09/screenshot-2025-09-14-at-14.41.33.png
+
 2025:
 
   - title: How will advanced AI systems impact democracy?
@@ -67,12 +73,6 @@
     journal: FacCT Proceedings
     paper_url: https://dl.acm.org/doi/full/10.1145/3715275.3732068
     img: https://humaninformationprocessing.wordpress.com/wp-content/uploads/2025/07/screenshot-2025-07-04-at-11.11.23.png
-
-  - title: How Malicious AI Swarms Can Threaten Democracy
-    authors: Schroeder et al
-    journal: arXiv
-    paper_url: https://arxiv.org/pdf/2506.06299?
-    img: https://humaninformationprocessing.wordpress.com/wp-content/uploads/2025/09/screenshot-2025-09-14-at-14.41.33.png
 
   - title: Increasing happiness through conversations with artificial intelligence
     authors: Heffner et al
