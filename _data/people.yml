@@ -35,18 +35,10 @@ Postdocs and Fellows:
 
 
 PhD Students and Research Assistants:
-
-  - name: Carla Zoe Cremer
-    bio: "Zoe is co-supervised by [Matan Mazor](https://www.asc.ox.ac.uk/person/dr-matan-mazor) and is funded by the [FHI](https://www.fhi.ox.ac.uk/)."
-    img: https://humaninformationprocessing.files.wordpress.com/2021/09/screenshot-2021-09-25-at-07.03.46.png
   
   - name: Jirko Rubruck
     bio: "Jirko is funded by the ESRC and co-supervised by [Andrew Saxe](https://www.saxelab.org/)."
     img: https://humaninformationprocessing.files.wordpress.com/2021/09/screenshot-2021-09-28-at-20.09.52-1.png
-  
-  - name: Denis Lan 
-    bio: "Denis is co-supervised by [Laurence Hunt](https://www.psych.ox.ac.uk/team/laurence-hunt)."
-    img: https://humaninformationprocessing.files.wordpress.com/2022/09/screenshot-2022-09-10-at-07.57.11.png
 
   - name: Kai Sandbrink
     bio: "Kai is co-supervised by [Simon Stringer](https://www.psy.ox.ac.uk/people/simon-stringer)."
@@ -119,11 +111,11 @@ Alumni (PhD Students / RAs):
     img: https://humaninformationprocessing.files.wordpress.com/2020/12/screenshot-2020-12-31-at-09.03.25.png
 
   - name: Ron Dekker
-    bio: "Ron defended in 2021. He is now a data scientist at EY SaT Lab in Tokyo. "
+    bio: "Ron defended in 2021. He is now a data scientist at EY SaT Lab in Tokyo."
     img: https://humaninformationprocessing.files.wordpress.com/2019/09/screenshot-2019-09-15-at-10.18.24.png
 
   - name: Timo Flesch
-    bio: "Timo was in the lab for 8 years! He now works for [The UK AI Safety Institute](https://www.aisi.gov.uk/)."
+    bio: "Timo was in the lab for 8 years! He now works for [The UK AI Security Institute](https://www.aisi.gov.uk/)."
     img: https://humaninformationprocessing.files.wordpress.com/2019/09/screenshot-2019-09-21-at-10.28.11.png
 
   - name: Leonie Glitz
@@ -133,6 +125,17 @@ Alumni (PhD Students / RAs):
   - name: Lukas Braun
     bio: "Lukas was co-supervised by [Andrew Saxe](https://www.saxelab.org/). He is now a postdoc with [Laura Driscoll](https://lauradriscoll.github.io/) at the Allen Institute"
     img: https://humaninformationprocessing.files.wordpress.com/2021/09/screenshot-2021-09-25-at-07.06.14.png
+
+  - name: Denis Lan 
+    bio: "Denis is now a postdoc with Tali Sharot"
+    img: https://humaninformationprocessing.files.wordpress.com/2022/09/screenshot-2022-09-10-at-07.57.11.png
+
+  - name: Carla Zoe Cremer
+    bio: "Zoe is now working for a nonprofit somewhere."
+    img: https://humaninformationprocessing.files.wordpress.com/2021/09/screenshot-2021-09-25-at-07.03.46.png
+
+
+
 
 
 Alumni (Postdocs):
@@ -193,7 +196,7 @@ Alumni (Postdocs):
     img: https://humaninformationprocessing.files.wordpress.com/2020/02/screenshot-2020-02-22-at-10.27.44.png
   
   - name: Keno Juechems
-    bio: "Keno is now a research scientist at [Limbic AI](https://limbic.ai/)."
+    bio: "Keno is now a research scientist at [The UK AI Security Institute](https://www.aisi.gov.uk/)."
     img: https://humaninformationprocessing.files.wordpress.com/2020/12/screenshot-2020-12-31-at-09.05.47.png
 
   - name: Paul Muhle-Karbe
