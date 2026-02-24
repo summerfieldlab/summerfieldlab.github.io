@@ -2,9 +2,22 @@
 
   - title: Understanding human meta-control and its pathologies using deep neural networks
     authors: Sandbrink et al
-    journal: PNAS (in press)
+    journal: PNAS
     paper_url: https://doi.org/10.31219/osf.io/5ezxs
     img: https://humaninformationprocessing.wordpress.com/wp-content/uploads/2024/09/screenshot-2024-09-24-at-09.30.35.png
+
+  - title: How does curriculum learning influence cognitive map formation?
+    authors: Glitz et al
+    journal: PsyarXiv
+    paper_url: https://osf.io/preprints/psyarxiv/t6kde_v1
+    img: https://humaninformationprocessing.wordpress.com/wp-content/uploads/2024/09/screenshot-2024-09-24-at-09.30.35.png
+
+  - title: Hybrid Neural-Cognitive Models Reveal How Memory Shapes Human Reward Learning
+    authors: Eckstein et al
+    journal: Nature Human Behaviour
+    paper_url: https://www.nature.com/articles/s41562-025-02324-0
+    img: https://humaninformationprocessing.wordpress.com/wp-content/uploads/2025/09/screenshot-2025-09-11-at-07.18.11.png
+
 
 2025:
 
@@ -49,12 +62,6 @@
     journal: BioRxiv
     paper_url: https://www.biorxiv.org/content/10.1101/2025.08.19.671090v2.abstract
     img: https://humaninformationprocessing.wordpress.com/wp-content/uploads/2025/09/screenshot-2025-09-11-at-07.03.05.png
-
-  - title: Hybrid Neural-Cognitive Models Reveal How Memory Shapes Human Reward Learning
-    authors: Eckstein et al
-    journal: Nature Human Behaviour (in press)
-    paper_url: https://osf.io/preprints/psyarxiv/u9ks4_v1
-    img: https://humaninformationprocessing.wordpress.com/wp-content/uploads/2025/09/screenshot-2025-09-11-at-07.18.11.png
 
 2024:
     
