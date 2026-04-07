@@ -58,6 +58,10 @@ This advanced option course discusses the search for a general theory of learnin
 
 ### Books
 
+C. Summerfield, [These Strange New Minds](https://www.penguin.co.uk/books/460891/these-strange-new-minds-by-summerfield-christopher/9781405966160)
+
+M. Bennett, [A Brief History of Intelligence](https://harpercollins.co.uk/products/a-brief-history-of-intelligence-why-the-evolution-of-the-brain-holds-the-key-to-the-future-of-ai-max-bennett?variant=55736535220603)
+
 C. Summerfield, [Natural General Intelligence](https://global.oup.com/academic/product/natural-general-intelligence-9780192843883?cc=gb&lang=en&)
 
 G. Linsday, [Models of the Mind](https://www.bloomsbury.com/uk/models-of-the-mind-9781472966421/)
