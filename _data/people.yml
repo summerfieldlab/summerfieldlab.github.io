@@ -51,10 +51,6 @@ PhD Students and Research Assistants:
     bio: "Mia is on the 4-year Biosciences DTP and is co-supervised by [Helen Barron](https://www.merton.ox.ac.uk/people/dr-helen-barron)."
     img: https://humaninformationprocessing.files.wordpress.com/2023/10/screenshot-2023-10-25-at-14.18.29.png
 
-  - name: Brian Christian
-    bio: "[Brian](https://brianchristian.org) is co-supervised by [Jakob Foerster](https://eng.ox.ac.uk/people/jakob-foerster/)."
-    img: https://humaninformationprocessing.files.wordpress.com/2023/10/screenshot-2023-10-25-at-14.18.35.png
-
   - name: Alice Zhang
     bio: "[Alice](https://licezhang.github.io/index.html) is a 2nd year PhD student. She was previously a lab manager in Cate Hartley's lab at NYU"
     img: https://humaninformationprocessing.wordpress.com/wp-content/uploads/2024/10/screenshot-2024-10-25-at-07.17.45.png
@@ -137,8 +133,9 @@ Alumni (PhD Students / RAs):
     bio: "Zoe is now working for a nonprofit somewhere."
     img: https://humaninformationprocessing.files.wordpress.com/2021/09/screenshot-2021-09-25-at-07.03.46.png
 
-
-
+  - name: Brian Christian
+    bio: "[Brian](https://brianchristian.org) was co-supervised by [Jakob Foerster](https://eng.ox.ac.uk/people/jakob-foerster/) and [Mira Dumbalska](https://www.psy.ox.ac.uk/people/tsvetomira-dumbalska). He is now a postdoc with [Stuart Russell](https://people.eecs.berkeley.edu/~russell/) at [CHAI](https://humancompatible.ai), UC Berkeley."
+    img: https://humaninformationprocessing.files.wordpress.com/2023/10/screenshot-2023-10-25-at-14.18.35.png
 
 
 Alumni (Postdocs):
