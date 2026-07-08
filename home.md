@@ -16,7 +16,7 @@ Please also follow us on [Twitter](https://twitter.com/summerfieldlab?lang=en) o
 
 ** We have funding from the Wellcome Trust and Cooperative AI Foundation. We are always interested in hearing from prospective postdocs. Please get in touch if you are interested: christopher.summerfield@psy.ox.ac.uk **
 
-If you would like to apply to the lab as a prospective graduate student (2026 entry), please can you complete this [form](https://docs.google.com/forms/d/e/1FAIpQLScxRnZr2NtpwPiW5Ge0bYdK2JeVewAaOziJY-HdNOFtv7wICw/viewform) before November 1st, 2025.
+If you would like to apply to the lab as a prospective graduate student (2027 entry), please can you complete this [form](https://docs.google.com/forms/d/e/1FAIpQLScxRnZr2NtpwPiW5Ge0bYdK2JeVewAaOziJY-HdNOFtv7wICw/viewform) before October 1st, 2026.
 
 Chris does not travel by air to give talks. See my [flightless professors](https://flightlessprofessors.wordpress.com/) page.
 
