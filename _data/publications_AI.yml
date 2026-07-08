@@ -1,5 +1,29 @@
 2026 / In Press:
 
+  - title: AI systems out-persuade expert humans
+    authors: Hackeburg et al
+    journal: arXiv
+    paper_url: https://arxiv.org/abs/2606.16475
+    img: https://humaninformationprocessing.wordpress.com/wp-content/uploads/2026/07/screenshot-2026-07-08-at-08.28.12.png
+
+  - title: RealityTest: How People Probe AI Identity and Whether Models Disclose It
+    authors: Gausen et al
+    journal: arXiv
+    paper_url: https://arxiv.org/abs/2606.00168
+    img: https://humaninformationprocessing.wordpress.com/wp-content/uploads/2026/07/screenshot-2026-07-08-at-08.28.28.png
+
+  - title: PRISM-X: Experiments on Personalised Fine-Tuning with Human and Simulated Users
+    authors: Kirk et al
+    journal: arXiv
+    paper_url: https://arxiv.org/abs/2605.13307
+    img: https://humaninformationprocessing.wordpress.com/wp-content/uploads/2026/07/screenshot-2026-07-08-at-08.28.33.png
+
+  - title: Post-training makes large language models less human-like
+    authors: Binz et al
+    journal: arXiv
+    paper_url: https://arxiv.org/abs/2605.07632
+    img: https://humaninformationprocessing.wordpress.com/wp-content/uploads/2026/07/screenshot-2026-07-08-at-08.28.43.png
+    
   - title: Measuring and mitigating persona distortions from AI writing assistance
     authors: Rottger et al
     journal: arXiv
