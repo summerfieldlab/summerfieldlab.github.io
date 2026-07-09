@@ -5,6 +5,13 @@
     journal: psyarXiv
     paper_url: https://osf.io/preprints/psyarxiv/67eqx
     img: https://humaninformationprocessing.wordpress.com/wp-content/uploads/2026/07/screenshot-2026-07-08-at-08.28.22.png
+
+  - title: "A clinically validated framework for auditing AI chatbot behavior in mental health interactions"
+    authors: Veilnhammer et al
+    journal: Nature Medicine
+    paper_url: https://arxiv.org/abs/2602.01347
+    img: https://humaninformationprocessing.wordpress.com/wp-content/uploads/2026/07/screenshot-2026-07-09-at-10.43.19.png
+    
     
   - title: "AI systems out-persuade expert humans"
     authors: Hackeburg et al
