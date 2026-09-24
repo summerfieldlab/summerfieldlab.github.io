@@ -11,12 +11,36 @@
     journal: Nature Medicine
     paper_url: https://arxiv.org/abs/2602.01347
     img: https://humaninformationprocessing.wordpress.com/wp-content/uploads/2026/07/screenshot-2026-07-09-at-10.43.19.png
+
+  - title: "Artificial intelligence can persuade people to take political actions"
+    authors: Hackenburg et al
+    journal: PNAS
+    paper_url: https://arxiv.org/abs/2604.09200v1
+    img: https://humaninformationprocessing.wordpress.com/wp-content/uploads/2026/04/screenshot-2026-04-14-at-08.18.57.png
+
+  - title: "Technological folie a deux: Feedback Loops Between AI Chatbots and Mental Illness"
+    authors: Nour et al
+    journal: Nature Mental Health
+    paper_url: https://arxiv.org/pdf/2507.19218
+    img: https://humaninformationprocessing.wordpress.com/wp-content/uploads/2025/09/screenshot-2025-09-14-at-14.41.10.png
     
   - title: "AI systems out-persuade expert humans"
     authors: Hackeburg et al
     journal: arXiv
     paper_url: https://arxiv.org/abs/2606.16475
     img: https://humaninformationprocessing.wordpress.com/wp-content/uploads/2026/07/screenshot-2026-07-08-at-08.28.12.png
+
+  - title: How Malicious AI Swarms Can Threaten Democracy
+    authors: Schroeder et al
+    journal: Science
+    paper_url: https://www.science.org/doi/10.1126/science.adz1697
+    img: https://humaninformationprocessing.wordpress.com/wp-content/uploads/2025/09/screenshot-2025-09-14-at-14.41.33.png
+
+  - title: Reward Models Inherit Value Biases from Pretraining
+    authors: Christian et al
+    journal: ICLR
+    paper_url: https://openreview.net/pdf?id=dT399j1Azv
+    img: https://humaninformationprocessing.wordpress.com/wp-content/uploads/2026/01/screenshot-2026-01-26-at-15.58.04.png
 
   - title: "RealityTest: How People Probe AI Identity and Whether Models Disclose It"
     authors: Gausen et al
@@ -42,29 +66,6 @@
     paper_url: https://arxiv.org/abs/2604.22503
     img: https://humaninformationprocessing.wordpress.com/wp-content/uploads/2026/05/screenshot-2026-05-06-at-08.51.31.png
     
-  - title: "Artificial intelligence can persuade people to take political actions"
-    authors: Hackenburg et al
-    journal: PNAS
-    paper_url: https://arxiv.org/abs/2604.09200v1
-    img: https://humaninformationprocessing.wordpress.com/wp-content/uploads/2026/04/screenshot-2026-04-14-at-08.18.57.png
-    
-  - title: "Technological folie a deux: Feedback Loops Between AI Chatbots and Mental Illness"
-    authors: Nour et al
-    journal: Nature Mental Health
-    paper_url: https://arxiv.org/pdf/2507.19218
-    img: https://humaninformationprocessing.wordpress.com/wp-content/uploads/2025/09/screenshot-2025-09-14-at-14.41.10.png
-
-  - title: How Malicious AI Swarms Can Threaten Democracy
-    authors: Schroeder et al
-    journal: Science
-    paper_url: https://www.science.org/doi/10.1126/science.adz1697
-    img: https://humaninformationprocessing.wordpress.com/wp-content/uploads/2025/09/screenshot-2025-09-14-at-14.41.33.png
-
-  - title: Reward Models Inherit Value Biases from Pretraining
-    authors: Christian et al
-    journal: ICLR
-    paper_url: https://openreview.net/pdf?id=dT399j1Azv
-    img: https://humaninformationprocessing.wordpress.com/wp-content/uploads/2026/01/screenshot-2026-01-26-at-15.58.04.png
 
 2025:
 
