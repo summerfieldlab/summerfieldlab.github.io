@@ -2,15 +2,15 @@
 
   - title: The recipe for intelligence in natural and artificial systems
     authors: Summerfield and Stachenfeld
-    journal: Neuron, in press
+    journal: Neuron
     paper_url: https://osf.io/preprints/psyarxiv/x9ktv_v1
     img: https://humaninformationprocessing.wordpress.com/wp-content/uploads/2026/07/screenshot-2026-07-08-at-08.31.01.png
-
-  - title: "Reason to play: Behavioral and Brain Alignment Between LRMs and Human Learners"
-    authors: Csaba et al
-    journal: arXiv
-    paper_url: https://arxiv.org/abs/2605.08019
-    img: https://humaninformationprocessing.wordpress.com/wp-content/uploads/2026/07/screenshot-2026-07-08-at-08.28.07.png    
+    
+  - title: Distinct roles of hippocampus and neocortex in symbolic compositional generalization
+    authors: Liang et al
+    journal: Neuron
+    paper_url: https://www.biorxiv.org/content/10.1101/2025.08.19.671090v2.abstract
+    img: https://humaninformationprocessing.wordpress.com/wp-content/uploads/2025/09/screenshot-2025-09-11-at-07.03.05.png
     
   - title: Understanding human meta-control and its pathologies using deep neural networks
     authors: Sandbrink et al
@@ -36,11 +36,12 @@
     paper_url: https://osf.io/preprints/psyarxiv/jr42g_v1
     img: https://humaninformationprocessing.wordpress.com/wp-content/uploads/2025/07/screenshot-2025-07-04-at-11.10.47.png
 
-  - title: Distinct roles of hippocampus and neocortex in symbolic compositional generalization
-    authors: Liang et al
-    journal: Neuron
-    paper_url: https://www.biorxiv.org/content/10.1101/2025.08.19.671090v2.abstract
-    img: https://humaninformationprocessing.wordpress.com/wp-content/uploads/2025/09/screenshot-2025-09-11-at-07.03.05.png
+  - title: "Reason to play: Behavioral and Brain Alignment Between LRMs and Human Learners"
+    authors: Csaba et al
+    journal: arXiv
+    paper_url: https://arxiv.org/abs/2605.08019
+    img: https://humaninformationprocessing.wordpress.com/wp-content/uploads/2026/07/screenshot-2026-07-08-at-08.28.07.png    
+
 
 2025:
 
