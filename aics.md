@@ -4,8 +4,6 @@ title: AI, Cognition and Society
 permalink: /teaching-aics/
 ---
 
-**Advanced Option Leader:** Prof Christopher Summerfield
-
 ### Overview:
 
 The world is changing at extraordinary pace, in part thanks to the development of artificial intelligence (AI). In this course, we will explore the nature and history of AI; how it works, and the extent to which its intelligence resembles that of humans. We will unpack the architecture of modern frontier AI systems and compare them to biological brains. We will discuss how AI models are trained, especially with a view to making them safe and approprite for human use. We will study how AI systems are changing our learning and cognition - in particular how we seek information, and how AI may be used for education.. We will consider AI as a social actor, as people increasingly come to treat AI systems as "friends" rather than "tools". We will consider how AI systems may be able to influence us, to disempower us, and assess this risks of "loss of control". Finally, we will consider more systemic impacts from AI - on our economy, democracy, geopolitics, and climate.
@@ -146,3 +144,5 @@ Here are some tips on how to survive the course.
 5. **The field is moving very fast.** I've tried to include mostly papers from 2026, with the exceptions of "classics" of early LLM development (from 2020 onwards). The LLM era began in about 2020 - anything before than is basically of historical interest!!
 
 6. **People have very strongly held opinions.** Some people think AI is the best thing in the world, others think it is the worst. Some people think it's going to kill us all, and others believe that excitement about AI is just hype. You'll have to find your own way - but I would strongly advise you to build an "evidence-based" view rather than adopting whatever opinion people provide on social media.
+
+7. **AI usage policy.** You should use AI responsibly. Most frontier models (e.g. Claude / ChatGPT) are quite reliable these days but you should always check AI answers against third party sources. Remember that cutting and pasting from an AI answer into an essay is a poor way to grasp the material - you should use AI to *deepen your understanding* (querying for explanations about tricky concepts) not as a substitute for reading papers in depth. 
