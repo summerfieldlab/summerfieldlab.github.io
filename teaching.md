@@ -1,10 +1,8 @@
 ---
 layout: page
-title: Teaching
+title: How to Build a Brain from Scratch
 permalink: /teaching/
 ---
-
-## How to Build a Brain from Scratch
 
 This advanced option course discusses the search for a general theory of learning and inference in biological brains. It draws upon diverse themes in the fields of psychology, neuroscience, machine learning and artificial intelligence research. We begin by posing broad questions. What are brains for, and what does it mean to ask how they “work”? Then, over a series of lectures, we discuss parallel computational approaches in machine learning/AI and psychology/neuroscience, including reinforcement learning, deep learning, and Bayesian methods. We contrast computational and representational approaches to understanding neuroscience data. We ask whether current approaches in machine learning are feasible and scaleable, and which methods – if any – resemble the computations observed in biological brains. We review how high-level cognitive functions – attention, episodic memory, concept formation, reasoning and executive control – are being instantiated in artificial agents, and how their implementation draws upon what we know about the mammalian brain. Finally, we contemplate the outlook for the future, and whether AI will be “solved” in the near future.
 

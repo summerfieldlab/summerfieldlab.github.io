@@ -23,17 +23,17 @@
           </label>
   
           <div class="trigger">
-            {%- assign custom_order = "home, news, people, projects, talks, publications, publications_AI, photos, practical, teaching" | split: ", " -%}
+            {%- assign custom_order = "home, news, people, projects, talks, publications, publications_AI, photos, practical, teaching, aics" | split: ", " -%}
 
             {%- for custom_path in custom_order -%}
               {%- assign matched_page = nil -%}
               {%- for page in site.pages -%}
-                {%- if page.path contains custom_path -%}
+                {%- if page.path contains custom_path and page.nav_exclude != true -%}
                   {%- assign matched_page = page -%}
                   {%- break -%}
                 {%- endif -%}
               {%- endfor -%}
-              
+
               {%- if matched_page -%}
                 <a class="page-link" href="{{ matched_page.url | relative_url }}">{{ matched_page.title | escape }}</a>
               {%- endif -%}
