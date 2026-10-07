@@ -6,7 +6,7 @@ permalink: /teaching/
 
 This advanced option course discusses the search for a general theory of learning and inference in biological brains. It draws upon diverse themes in the fields of psychology, neuroscience, machine learning and artificial intelligence research. We begin by posing broad questions. What are brains for, and what does it mean to ask how they “work”? Then, over a series of lectures, we discuss parallel computational approaches in machine learning/AI and psychology/neuroscience, including reinforcement learning, deep learning, and Bayesian methods. We contrast computational and representational approaches to understanding neuroscience data. We ask whether current approaches in machine learning are feasible and scaleable, and which methods – if any – resemble the computations observed in biological brains. We review how high-level cognitive functions – attention, episodic memory, concept formation, reasoning and executive control – are being instantiated in artificial agents, and how their implementation draws upon what we know about the mammalian brain. Finally, we contemplate the outlook for the future, and whether AI will be “solved” in the near future.
 
-[Download all lecture slides and notes](https://humaninformationprocessing.files.wordpress.com/2020/01/how-to-build-a-brain-from-scratch_all_lectures.pdf?force_download=true)
+[Download all lecture slides and notes](/assets/pdfs/how-to-build-a-brain-from-scratch_all_lectures.pdf)
 
 - ![Lecture 1: Building and understanding brains.](/assets/images/teaching/screenshot-2024-10-15-at-09.09.46.png)
     - Lecture 1: A brief history of AI
