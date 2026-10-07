@@ -49,7 +49,7 @@ Recent papers:
 
 In the past we have been funded by the [European Research Council](https://erc.europa.eu), the [Human Brain Project](https://www.humanbrainproject.eu/en/), [Schmidt Futures](https://www.risefortheworld.org/) and others. We are grateful to all our funders for their generous support.
 
-![European Research Council](https://humaninformationprocessing.files.wordpress.com/2019/09/erc.jpeg)
+![European Research Council](/assets/images/projects/erc.jpeg)
 
 1/ **Abstraction and Generalisation in Human Decision-Making** (ERC Consolidator Award 725937 NEUROABSTRACTION). Collaborators: [Tim Behrens](https://www.ndcn.ox.ac.uk/team/timothy-behrens), [Mark Stokes](https://www.ohba.ox.ac.uk/team/mark-stokes), [Matthew Rushworth](https://www.psy.ox.ac.uk/team/matthew-rushworth).
 
@@ -59,7 +59,7 @@ The goal of this project is to understand how humans acquire conceptual knowledg
 2. How do humans learn to perform of multiple tasks at once, and encode task representations in a way that avoids interference?
 3. How can we build computational models, such as neural networks, that learn and generalise new abstract concepts?
 
-<img src="https://humaninformationprocessing.files.wordpress.com/2019/09/hbp.png" alt="Human Brain Project" width="306"/>
+<img src="/assets/images/projects/hbp.png" alt="Human Brain Project" width="306"/>
 
 2/ **Hierarchical Planning During Navigation** (Human Brain Project award, SGA2 T2.2.7 and T2.2.8). PIs: [Giovanni Pezzulo](https://www.istc.cnr.it/en/people/giovanni-pezzulo), [Hugo Spiers](https://www.ucl.ac.uk/pals/people/hugo-spiers), and Christopher Summerfield. Collaborators: [Nico Schuck](https://www.mpib-berlin.mpg.de/en/staff/nicolas-schuck), [Kate Jeffery](https://www.ucl.ac.uk/pals/research/experimental-psychology/person/kate-jeffery/).
 

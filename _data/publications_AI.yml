@@ -4,67 +4,67 @@
     authors: Summerfield et al
     journal: Nature Human Behaviour
     paper_url: https://osf.io/preprints/psyarxiv/67eqx
-    img: https://humaninformationprocessing.wordpress.com/wp-content/uploads/2026/07/screenshot-2026-07-08-at-08.28.22.png
+    img: /assets/images/publications/screenshot-2026-07-08-at-08.28.22.png
 
   - title: "A framework for auditing AI behavior in mental health interactions"
     authors: Veilnhammer et al
     journal: Nature Medicine
     paper_url: https://arxiv.org/abs/2602.01347
-    img: https://humaninformationprocessing.wordpress.com/wp-content/uploads/2026/07/screenshot-2026-07-09-at-10.43.19.png
+    img: /assets/images/publications/screenshot-2026-07-09-at-10.43.19.png
 
   - title: "Artificial intelligence can persuade people to take political actions"
     authors: Hackenburg et al
     journal: PNAS
     paper_url: https://arxiv.org/abs/2604.09200v1
-    img: https://humaninformationprocessing.wordpress.com/wp-content/uploads/2026/04/screenshot-2026-04-14-at-08.18.57.png
+    img: /assets/images/publications/screenshot-2026-04-14-at-08.18.57.png
 
   - title: "Technological folie a deux: Feedback Loops Between AI Chatbots and Mental Illness"
     authors: Nour et al
     journal: Nature Mental Health
     paper_url: https://arxiv.org/pdf/2507.19218
-    img: https://humaninformationprocessing.wordpress.com/wp-content/uploads/2025/09/screenshot-2025-09-14-at-14.41.10.png
+    img: /assets/images/publications/screenshot-2025-09-14-at-14.41.10.png
     
   - title: "AI systems out-persuade expert humans"
     authors: Hackeburg et al
     journal: arXiv
     paper_url: https://arxiv.org/abs/2606.16475
-    img: https://humaninformationprocessing.wordpress.com/wp-content/uploads/2026/07/screenshot-2026-07-08-at-08.28.12.png
+    img: /assets/images/publications/screenshot-2026-07-08-at-08.28.12.png
 
   - title: How Malicious AI Swarms Can Threaten Democracy
     authors: Schroeder et al
     journal: Science
     paper_url: https://www.science.org/doi/10.1126/science.adz1697
-    img: https://humaninformationprocessing.wordpress.com/wp-content/uploads/2025/09/screenshot-2025-09-14-at-14.41.33.png
+    img: /assets/images/publications/screenshot-2025-09-14-at-14.41.33.png
 
   - title: Reward Models Inherit Value Biases from Pretraining
     authors: Christian et al
     journal: ICLR
     paper_url: https://openreview.net/pdf?id=dT399j1Azv
-    img: https://humaninformationprocessing.wordpress.com/wp-content/uploads/2026/01/screenshot-2026-01-26-at-15.58.04.png
+    img: /assets/images/publications/screenshot-2026-01-26-at-15.58.04.png
 
   - title: "RealityTest: How People Probe AI Identity and Whether Models Disclose It"
     authors: Gausen et al
     journal: NeurIPS
     paper_url: https://arxiv.org/abs/2606.00168
-    img: https://humaninformationprocessing.wordpress.com/wp-content/uploads/2026/07/screenshot-2026-07-08-at-08.28.28.png
+    img: /assets/images/publications/screenshot-2026-07-08-at-08.28.28.png
 
   - title: "PRISM-X: Experiments on Personalised Fine-Tuning with Human and Simulated Users"
     authors: Kirk et al
     journal: arXiv
     paper_url: https://arxiv.org/abs/2605.13307
-    img: https://humaninformationprocessing.wordpress.com/wp-content/uploads/2026/07/screenshot-2026-07-08-at-08.28.33.png
+    img: /assets/images/publications/screenshot-2026-07-08-at-08.28.33.png
 
   - title: "Post-training makes large language models less human-like"
     authors: Binz et al
     journal: arXiv
     paper_url: https://arxiv.org/abs/2605.07632
-    img: https://humaninformationprocessing.wordpress.com/wp-content/uploads/2026/07/screenshot-2026-07-08-at-08.28.43.png
+    img: /assets/images/publications/screenshot-2026-07-08-at-08.28.43.png
     
   - title: Measuring and mitigating persona distortions from AI writing assistance
     authors: Rottger et al
     journal: arXiv
     paper_url: https://arxiv.org/abs/2604.22503
-    img: https://humaninformationprocessing.wordpress.com/wp-content/uploads/2026/05/screenshot-2026-05-06-at-08.51.31.png
+    img: /assets/images/publications/screenshot-2026-05-06-at-08.51.31.png
     
 
 2025:
@@ -73,85 +73,85 @@
     authors: Summerfield et al
     journal: Nature Human Behaviour
     paper_url: https://arxiv.org/pdf/2409.06729
-    img: https://humaninformationprocessing.wordpress.com/wp-content/uploads/2025/09/screenshot-2025-09-14-at-16.06.06.png
+    img: /assets/images/publications/screenshot-2025-09-14-at-16.06.06.png
 
   - title: The Levers of Political Persuasion with Conversational AI
     authors: Hackenburg et al
     journal: Science
     paper_url: https://www.science.org/doi/10.1126/science.aea3884
-    img: https://humaninformationprocessing.wordpress.com/wp-content/uploads/2025/09/screenshot-2025-09-14-at-14.41.17.png
+    img: /assets/images/publications/screenshot-2025-09-14-at-14.41.17.png
 
   - title: Deep reinforcement learning can promote sustainable human behaviour in a common-pool resource problem
     authors: Koster et al
     journal: Nature Communications
     paper_url: https://www.nature.com/articles/s41467-025-58043-7
-    img: https://humaninformationprocessing.wordpress.com/wp-content/uploads/2025/09/screenshot-2025-09-14-at-14.41.57.png
+    img: /assets/images/publications/screenshot-2025-09-14-at-14.41.57.png
 
   - title: "Deep mechanism design: Learning social and economic policies for human benefit"
     authors: Tachetti et al
     journal: PNAS
     paper_url: https://www.pnas.org/doi/abs/10.1073/pnas.2319949121
-    img: https://humaninformationprocessing.wordpress.com/wp-content/uploads/2025/09/screenshot-2025-09-14-at-14.49.21.png
+    img: /assets/images/publications/screenshot-2025-09-14-at-14.49.21.png
 
   - title: "Neural steering vectors reveal dose and exposure-dependent impacts of human-AI relationships"
     authors: Kirk et al
     journal: arXiv
     paper_url: https://www.arxiv.org/abs/2512.01991
-    img: https://humaninformationprocessing.wordpress.com/wp-content/uploads/2025/12/screenshot-2025-12-06-at-08.13.49.png
+    img: /assets/images/publications/screenshot-2025-12-06-at-08.13.49.png
 
   - title: Why human–AI relationships need socioaffective alignment
     authors: Kirk et al
     journal: Humanities and Social Sciences Communications
     paper_url: https://www.nature.com/articles/s41599-025-04532-5
-    img: https://humaninformationprocessing.wordpress.com/wp-content/uploads/2025/09/screenshot-2025-09-14-at-14.41.25.png
+    img: /assets/images/publications/screenshot-2025-09-14-at-14.41.25.png
     
   - title: Conversational AI increases political knowledge as effectively as self-directed internet search
     authors: Luettgau et al
     journal: PNAS Nexus
     paper_url: https://arxiv.org/pdf/2509.05219
-    img: https://humaninformationprocessing.wordpress.com/wp-content/uploads/2025/09/screenshot-2025-09-14-at-14.40.55.png
+    img: /assets/images/publications/screenshot-2025-09-14-at-14.40.55.png
 
   - title: People readily follow personal advice from AI but it does not improve their well-being
     authors: Luettgau et al
     journal: arXiv
     paper_url: https://arxiv.org/abs/2511.15352
-    img: https://humaninformationprocessing.wordpress.com/wp-content/uploads/2025/12/screenshot-2025-12-06-at-08.17.52.png
+    img: /assets/images/publications/screenshot-2025-12-06-at-08.17.52.png
 
   - title: "Lessons from a Chimp: AI 'Scheming' and the Quest for Ape Language"
     authors: Summerfield et al
     journal: arXiv
     paper_url: https://arxiv.org/pdf/2507.03409?
-    img: https://humaninformationprocessing.wordpress.com/wp-content/uploads/2025/09/screenshot-2025-09-14-at-14.41.50.png
+    img: /assets/images/publications/screenshot-2025-09-14-at-14.41.50.png
 
   - title: Reward Model Interpretability via Optimal and Pessimal Tokens
     authors: Christian et al
     journal: FacCT Proceedings
     paper_url: https://dl.acm.org/doi/full/10.1145/3715275.3732068
-    img: https://humaninformationprocessing.wordpress.com/wp-content/uploads/2025/07/screenshot-2025-07-04-at-11.11.23.png
+    img: /assets/images/publications/screenshot-2025-07-04-at-11.11.23.png
 
   - title: Increasing happiness through conversations with artificial intelligence
     authors: Heffner et al
     journal: arXiv
     paper_url: https://arxiv.org/pdf/2504.02091?
-    img: https://humaninformationprocessing.wordpress.com/wp-content/uploads/2025/09/screenshot-2025-09-14-at-14.42.03.png
+    img: /assets/images/publications/screenshot-2025-09-14-at-14.42.03.png
 
   - title: Language agents as digital representatives in collective decision-making
     authors: Jarrett et al
     journal: arXiv
     paper_url: https://arxiv.org/pdf/2502.09369?
-    img: https://humaninformationprocessing.wordpress.com/wp-content/uploads/2025/09/screenshot-2025-09-14-at-14.41.40.png
+    img: /assets/images/publications/screenshot-2025-09-14-at-14.41.40.png
 
   - title: Can AI Mediation Improve Democratic Deliberation?
     authors: Tessler et al
     journal: Knight First Amendment Institute
     paper_url: https://knightcolumbia.org/content/can-ai-mediation-improve-democratic-deliberation
-    img: https://humaninformationprocessing.wordpress.com/wp-content/uploads/2025/09/screenshot-2025-09-14-at-14.41.02.png
+    img: /assets/images/publications/screenshot-2025-09-14-at-14.41.02.png
 
   - title: "Measuring what Matters: Construct Validity in Large Language Model Benchmarks"
     authors: Bean et al
     journal: arXiv
     paper_url: https://arxiv.org/abs/2511.04703
-    img: https://humaninformationprocessing.wordpress.com/wp-content/uploads/2025/12/screenshot-2025-12-06-at-08.22.27.png
+    img: /assets/images/publications/screenshot-2025-12-06-at-08.22.27.png
 
 
 2024:
@@ -160,7 +160,7 @@
     authors: Tessler et al
     journal: Science (2024)
     paper_url: https://www.science.org/stoken/author-tokens/ST-2196/full
-    img: https://humaninformationprocessing.wordpress.com/wp-content/uploads/2025/09/screenshot-2025-09-14-at-15.18.49.png
+    img: /assets/images/publications/screenshot-2025-09-14-at-15.18.49.png
 
 2023:
 
@@ -168,7 +168,7 @@
     authors: Weidinger et al
     journal: PNAS (2023)
     paper_url: https://www.pnas.org/doi/abs/10.1073/pnas.2213709120
-    img: https://humaninformationprocessing.wordpress.com/wp-content/uploads/2025/09/screenshot-2025-09-14-at-15.23.10.png
+    img: /assets/images/publications/screenshot-2025-09-14-at-15.23.10.png
 
 2022:
 
@@ -176,22 +176,22 @@
     authors: Bakker et al
     journal: NeurIPS (2022)
     paper_url: https://proceedings.neurips.cc/paper_files/paper/2022/file/f978c8f3b5f399cae464e85f72e28503-Paper-Conference.pdf
-    img: https://humaninformationprocessing.wordpress.com/wp-content/uploads/2025/09/screenshot-2025-09-14-at-15.18.55.png
+    img: /assets/images/publications/screenshot-2025-09-14-at-15.18.55.png
 
   - title: Human-centred mechanism design with Democratic AI
     authors: Koster et al
     journal: Nature Human Behaviour (2022)
     paper_url: https://www.nature.com/articles/s41562-022-01383-x
-    img: https://humaninformationprocessing.wordpress.com/wp-content/uploads/2025/09/screenshot-2025-09-14-at-15.19.42.png
+    img: /assets/images/publications/screenshot-2025-09-14-at-15.19.42.png
 
   - title: "The good shepherd: An oracle agent for mechanism design"
     authors: Balaguer et al
     journal: arXiv
     paper_url: https://arxiv.org/pdf/2202.10135
-    img: https://humaninformationprocessing.wordpress.com/wp-content/uploads/2025/09/screenshot-2025-09-14-at-15.50.21.png
+    img: /assets/images/publications/screenshot-2025-09-14-at-15.50.21.png
 
   - title: "Hcmd-zero: Learning value aligned mechanisms from data"
     authors: Balaguer et al
     journal: arXiv
     paper_url: https://arxiv.org/pdf/2202.10122
-    img: https://humaninformationprocessing.wordpress.com/wp-content/uploads/2025/09/screenshot-2025-09-14-at-15.49.53.png
+    img: /assets/images/publications/screenshot-2025-09-14-at-15.49.53.png

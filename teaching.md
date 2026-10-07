@@ -8,45 +8,45 @@ This advanced option course discusses the search for a general theory of learnin
 
 [Download all lecture slides and notes](https://humaninformationprocessing.files.wordpress.com/2020/01/how-to-build-a-brain-from-scratch_all_lectures.pdf?force_download=true)
 
-- ![Lecture 1: Building and understanding brains.](https://humaninformationprocessing.wordpress.com/wp-content/uploads/2024/10/screenshot-2024-10-15-at-09.09.46.png)
+- ![Lecture 1: Building and understanding brains.](/assets/images/teaching/screenshot-2024-10-15-at-09.09.46.png)
     - Lecture 1: A brief history of AI
     - Introduction; A history of intelligent machines; symbolic AI; the computational approach to mind and brain; deep neural networks; statistical approaches to language modelling and LLMs.
     - [Watch video of lecture 1](https://humaninformationprocessing.wordpress.com/wp-content/uploads/2024/10/htbabfs_lecture1_2024.mp4){:target="_blank"}
     - [Watch OLD video of lecture 1](https://humaninformationprocessing.wordpress.com/how-to-build-a-brain-from-scratch-lectures-1-8/){:target="_blank"}
 
-- ![Lecture 2: Model-free reinforcement learning](https://humaninformationprocessing.files.wordpress.com/2020/01/screenshot-2020-01-29-at-08.32.59.png)
+- ![Lecture 2: Model-free reinforcement learning](/assets/images/teaching/screenshot-2020-01-29-at-08.32.59.png)
     - Lecture 2: Model-free reinforcement learning
     - Why do we have a brain; Classical and operant conditioning; reinforcement learning and the Bellman equation; Temporal difference learning; Q-learning, eligibility traces, actor-critic methods
     - [Watch video of lecture 2](https://videopress.com/v/4udJpD7z){:target="_blank"}
 
-- ![Lecture 3: Feedforward networks and object categorisation](https://humaninformationprocessing.files.wordpress.com/2020/01/screenshot-2020-01-29-at-08.33.17.png)
+- ![Lecture 3: Feedforward networks and object categorisation](/assets/images/teaching/screenshot-2020-01-29-at-08.33.17.png)
     - Lecture 3: Feedforward networks and object categorisation
     - Parametric models for object recognition; Critiques of pure representationalism; Perceptrons and sigmoid neurons; Depth: the multilayer perceptron; Challenges: optimisation, generalisation and overfitting
     - [Watch video of lecture 3](https://videopress.com/v/o92WiRvd){:target="_blank"}
 
-- ![Lecture 4: Structuring information in space and time](https://humaninformationprocessing.files.wordpress.com/2020/01/screenshot-2020-01-29-at-08.33.43-1.png)
+- ![Lecture 4: Structuring information in space and time](/assets/images/teaching/screenshot-2020-01-29-at-08.33.43-1.png)
     - Lecture 4: Structuring information in space and time
     - Convnets and translational invariance; Convnets and the primate ventral stream; Limitations of feedforward deep networks; Hierarchies of temporal integration in the brain; Temporal integration in perceptual decision-making; Recurrent neural networks and the parietal cortex
     - [Watch video of lecture 4](https://videopress.com/v/FeeDkJ9u){:target="_blank"}
 
-- ![Lecture 5: Computation and modular memory systems](https://humaninformationprocessing.files.wordpress.com/2020/01/screenshot-2020-01-29-at-08.34.52.png)
+- ![Lecture 5: Computation and modular memory systems](/assets/images/teaching/screenshot-2020-01-29-at-08.34.52.png)
     - Lecture 5: Computation and modular memory systems
     - Modular memory systems; working memory gating in the PFC; LSTMs; The differentiable neural computer; The problem of continual learning
     - [Watch video of lecture 5](https://videopress.com/v/eb9Rmqjw){:target="_blank"}
     - 
     - [Watch lecture 5 appendix](https://humaninformationprocessing.wordpress.com/wp-content/uploads/2025/04/lecture_5_appendix.mp4){:target="_blank"}
 
-- ![Lecture 6: Complementary learning systems theory](https://humaninformationprocessing.files.wordpress.com/2020/01/screenshot-2020-01-29-at-08.35.03.png)
+- ![Lecture 6: Complementary learning systems theory](/assets/images/teaching/screenshot-2020-01-29-at-08.35.03.png)
     - Lecture 6: Complementary learning systems theory
     - Dual process memory models; the hippocampus as a parametric storage devide; experience-dependent replay and consolidation; the deep Q-network; knowledge partitioning and resource allocation
     - [Watch video of lecture 6](https://videopress.com/v/rgu63cLS){:target="_blank"}
 
-- ![Lecture 7: Unsupervised and generative models](https://humaninformationprocessing.files.wordpress.com/2020/01/screenshot-2020-01-29-at-08.35.36.png)
+- ![Lecture 7: Unsupervised and generative models](/assets/images/teaching/screenshot-2020-01-29-at-08.35.36.png)
     - Lecture 7: Unsupervised and generative models
     - Unsupervised learning: knowing that a thing is a thing; Encoding models: Hebbian learning and sparse coding; Variational autoencoders; The Bayesian approach; Predictive coding
     - [Watch video of Lecture 7](https://videopress.com/v/UyzemYzv){:target="_blank"}
 
-- ![Lecture 8: Building a model of the world for planning and reasoning](https://humaninformationprocessing.files.wordpress.com/2020/01/screenshot-2020-01-29-at-08.37.08.png)
+- ![Lecture 8: Building a model of the world for planning and reasoning](/assets/images/teaching/screenshot-2020-01-29-at-08.37.08.png)
     - Lecture 8: Building a model of the world for planning and reasoning
     - Temporal abstraction in RL and the cingulate cortex; Multiple controllers for behaviour; Cognitive maps and the hippocampus; Hierarchical planning; Grid cells and conceptual knowledge
     - [Watch video of Lecture 8](https://videopress.com/v/Il0EzGhB){:target="_blank"}
