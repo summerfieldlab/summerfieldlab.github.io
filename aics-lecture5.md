@@ -9,6 +9,8 @@ nav_exclude: true
 
 Lecture 5 discusses how the widespread availability of AI content is changing the way we seek and obtain information, communicate with each other, and study and learn.
 
+[Download Lecture 5 slides (PowerPoint, 40MB)](/assets/presentations/aics/AICS lecture 5.pptx)
+
 ### What you need to understand:
 
 1. Deepfakes and AI disclosure

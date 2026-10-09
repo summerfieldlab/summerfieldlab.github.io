@@ -9,6 +9,8 @@ nav_exclude: true
 
 This lecture unpacks how key-value memory works, how it is implemented in the transformer, and how it relates to fast associative memory in the brain. It explains how large neural networks allow abstractions to be formed, and discusses the distinction between in-weight and in-context learning, and how the latter may explain sample efficient learning in humans.
 
+[Download Lecture 2 slides (PowerPoint, 20MB)](/assets/presentations/aics/AICS lecture 2.pptx)
+
 ### What you need to understand:
 
 1. Key-value memory and the transformer network

@@ -9,6 +9,8 @@ nav_exclude: true
 
 Lecture 6 discusses the rise of AI systems with socioaffective design features. We consider the growth of anthropomorphic and relatability-seeking AI, including companion applications. We discuss the impact of excessive validation (sycophancy), how design features of these products may prolong engagement and maximise self-disclosure, and consider evidence that they have a negative effect on wellbeing. We ask what 'AI psychosis' may be and how it is provoked. We consider the impact of AI relationships on people, and discuss the outlook for the future, including the possibility that AI systems are considered moral patients in need of "welfare".
 
+[Download Lecture 6 slides (PowerPoint, 11MB)](/assets/presentations/aics/AICS lecture 6.pptx)
+
 ### What you need to understand:
 
 1. The intentional Stance

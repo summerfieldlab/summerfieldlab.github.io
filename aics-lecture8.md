@@ -9,6 +9,8 @@ nav_exclude: true
 
 In the final lecture, we discuss the systemic impacts of AI. We consider how AI is impacting job markets, and whether we can expect a "jobs apocalypse". We discuss the impact of AI on democracy and autocracy, and how AI is already reshaping great power conflict between the US and China. We examine the environmental footprint of AI, and especially the use of electricity and water by AI datacentres. Finally, we consider the nascent anti-AI protest movement, and discuss how AI may become a divisive political issue in the near future.
 
+[Download Lecture 8 slides (PowerPoint, 9.2MB)](/assets/presentations/aics/AICS lecture 8.pptx)
+
 ### What you need to understand:
 
 1. Systemic vs. acute risks

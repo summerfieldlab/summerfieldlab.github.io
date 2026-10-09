@@ -9,6 +9,8 @@ nav_exclude: true
 
 Lecture 3 discusses how modern frontier AI systems are built. We discuss scaling laws, memory systems (including context/RAG), large reasoning models, and agentic AI. We discuss the capabilities of modern systems as measured by benchmark tests, and unpack what may still be missing for artificial general intelligence - including consolidation, metacognition, and embodiment.
 
+[Download Lecture 3 slides (PowerPoint, 92MB)](/assets/presentations/aics/AICS lecture 3.pptx)
+
 ### What you need to understand:
 
 1. Sutton's "bitter lesson" for AI development

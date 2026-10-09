@@ -9,6 +9,8 @@ nav_exclude: true
 
 Lecture 4 is an introduction to the concept of alignment in AI safety. We define the alignment problem, and explain how post-training methods (SFT, RLHF, RLAIF) can be used to align models. We ask whether post-training works, how alignment and misalignment generalise, and discuss how it can be reverse via jailbreakin. Finally, we discuss various categories of AI use and misuse in the real world that are due to failures of alignment.
 
+[Download Lecture 4 slides (PowerPoint, 18MB)](/assets/presentations/aics/AICS lecture 4.pptx)
+
 ### What you need to understand:
 
 1. The Alignment problem

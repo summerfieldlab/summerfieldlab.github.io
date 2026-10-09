@@ -9,6 +9,8 @@ nav_exclude: true
 
 In lecture 7 we consider the balance of power between humans and AI systems. We begin by considering the nature of human agency, and evidence that humans seek to maintain their freedom and control over the environment. We consider how AI may gradually erode human agency, as technology is embedded in critical systems and infrastructure. We explore how power can be exercised through technical systems (e.g. a bureaucracy) and by exercising influence. AI is now superhuman at persuasion, and exceptionally cyber capable. We consider the concept of instrumental convergence, evidence for AI "scheming" and assess the possibility of loss of control to AI.
 
+[Download Lecture 7 slides (PowerPoint, 11MB)](/assets/presentations/aics/AICS lecture 7.pptx)
+
 ### What you need to understand:
 
 1. Empowerment
