@@ -63,3 +63,5 @@ Lecture 5 discusses how the widespread availability of AI content is changing th
 [Kestin 2025](https://www.nature.com/articles/s41598-025-97652-6)
 
 [Bartos 2026](https://osf.io/preprints/psyarxiv/h529e_v1)
+
+[Autor 2026](https://www.nber.org/papers/w33322)

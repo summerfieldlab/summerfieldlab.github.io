@@ -74,7 +74,12 @@ The world is changing at extraordinary pace, in part thanks to the development o
 </div>
 
 <div style="clear: both; margin-bottom: 2em;">
-    <strong>Lecture 8: Systemic impacts of AI</strong>
+    <img src="/assets/images/aics/lecture8.png" alt="Lecture 8: Systemic impacts of AI" style="float: left; max-width: 280px; margin-right: 20px;">
+    <div>
+        <strong>Lecture 8: Systemic impacts of AI</strong><br>
+        Systemic vs. acute risks; market concentration; AI's impact on democracy and autocracy; the geopolitics of AI and US-China conflict; datacentre resource consumption (electricity and water); the anti-AI protest movement.<br>
+        <a href="/teaching-aics/lecture8/">Link to Lecture 8</a>
+    </div>
 </div>
 
 ### Practicalities
@@ -115,6 +120,8 @@ This course is taught "flipped".
 [*Code Dependent.*](https://www.penguin.co.uk/books/453861/code-dependent-by-murgia-madhumita/9781847927453) Madhumita Murgia 2024.
 [*Power and Progress.*](https://www.hachette.co.uk/titles/daron-acemoglu/power-and-progress/9781399804523/) Daron Acemoglu 2024.
 *AI and political freedom.* Matthew Botvinick 2026.
+*The Economics of Transformative AI.* Agrawal, Brynjolfsson & Korinek 2026.
+*Geopolitics of AI.* Hal Brands 2026.
 
 #### General Introductory Reading (reports / review articles / comments)
 

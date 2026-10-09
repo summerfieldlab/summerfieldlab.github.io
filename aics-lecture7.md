@@ -73,3 +73,5 @@ In lecture 7 we consider the balance of power between humans and AI systems. We 
 [Fasano 2026](https://www.anthropic.com/research/glm-5-3-and-the-spread-of-advanced-cyber-capabilities)
 
 [Lynch 2026](https://www.anthropic.com/research/agentic-misalignment)
+
+[Hendryks 2026](https://arxiv.org/abs/2606.06624)

@@ -62,3 +62,5 @@ Lecture 4 is an introduction to the concept of alignment in AI safety. We define
 [AISI 2025](https://www.aisi.gov.uk/frontier-ai-trends-report/pdf)
 
 [Sorensen 2024](https://arxiv.org/abs/2402.05070)
+
+[Villalobos 2022](https://arxiv.org/abs/2211.05100)
