@@ -9,7 +9,7 @@ nav_exclude: true
 
 This lecture is largely introductory. It summarises the history of the idea of a thinking machine, from early conceptions (Leibniz, Boole, Lovelace) to the birth of computer science. It discusses how neural networks can be trained with supervision, and how they were used to model language in the pre-LLM era.
 
-[Download Lecture 1 slides (PowerPoint, 22MB)](/assets/presentations/aics/AICS lecture 1.pptx)
+[Download Lecture 1 slides (PowerPoint, 22MB)](/assets/presentations/aics/AICS_lecture_1.pptx)
 
 ### What you need to understand:
 

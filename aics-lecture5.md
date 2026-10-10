@@ -9,7 +9,7 @@ nav_exclude: true
 
 Lecture 5 discusses how the widespread availability of AI content is changing the way we seek and obtain information, communicate with each other, and study and learn.
 
-[Download Lecture 5 slides (PowerPoint, 40MB)](/assets/presentations/aics/AICS lecture 5.pptx)
+[Download Lecture 5 slides (PowerPoint, 40MB)](/assets/presentations/aics/AICS_lecture_5.pptx)
 
 ### What you need to understand:
 
