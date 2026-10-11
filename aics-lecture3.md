@@ -11,6 +11,8 @@ Lecture 3 discusses how modern frontier AI systems are built. We discuss scaling
 
 [Download Lecture 3 slides (PowerPoint, 92MB)](/assets/presentations/aics/AICS_lecture_3.pptx)
 
+[Watch Lecture 3 video](http://archive.org/details/aics-lecture-3)
+
 ### What you need to understand:
 
 1. Sutton's "bitter lesson" for AI development
