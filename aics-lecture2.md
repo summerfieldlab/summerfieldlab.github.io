@@ -11,6 +11,8 @@ This lecture unpacks how key-value memory works, how it is implemented in the tr
 
 [Download Lecture 2 slides (PowerPoint, 20MB)](/assets/presentations/aics/AICS_lecture_2.pptx)
 
+[Watch Lecture 2 video](http://archive.org/details/aics-lecture-2)
+
 ### What you need to understand:
 
 1. Key-value memory and the transformer network
