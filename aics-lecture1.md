@@ -11,7 +11,7 @@ This lecture is largely introductory. It summarises the history of the idea of a
 
 [Download Lecture 1 slides (PowerPoint, 22MB)](/assets/presentations/aics/AICS_lecture_1.pptx)
 
-[Watch Lecture 1 video](http://archive.org/details/aics-lecture-1))
+[Watch Lecture 1 video](http://archive.org/details/aics-lecture-1)
 
 ### What you need to understand:
 
