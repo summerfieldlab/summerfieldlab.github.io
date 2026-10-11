@@ -11,6 +11,8 @@ Lecture 4 is an introduction to the concept of alignment in AI safety. We define
 
 [Download Lecture 4 slides (PowerPoint, 18MB)](/assets/presentations/aics/AICS_lecture_4.pptx)
 
+[Watch Lecture 4 video](http://archive.org/details/aics-lecture-4)
+
 ### What you need to understand:
 
 1. The Alignment problem
