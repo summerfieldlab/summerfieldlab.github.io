@@ -27,7 +27,7 @@ This advanced option course discusses the search for a general theory of learnin
 - ![Lecture 4: Structuring information in space and time](/assets/images/teaching/screenshot-2020-01-29-at-08.33.43-1.png)
     - Lecture 4: Structuring information in space and time
     - Convnets and translational invariance; Convnets and the primate ventral stream; Limitations of feedforward deep networks; Hierarchies of temporal integration in the brain; Temporal integration in perceptual decision-making; Recurrent neural networks and the parietal cortex
-    - [Watch video of lecture 4](https://archive.org/details/htbabfs-lecture-4){:target="_blank"}
+    - [Watch video of lecture 4](https://archive.org/details/htbabfs-lecture-4_202610){:target="_blank"}
 
 - ![Lecture 5: Computation and modular memory systems](/assets/images/teaching/screenshot-2020-01-29-at-08.34.52.png)
     - Lecture 5: Computation and modular memory systems
