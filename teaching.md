@@ -33,7 +33,7 @@ This advanced option course discusses the search for a general theory of learnin
     - Lecture 5: Computation and modular memory systems
     - Modular memory systems; working memory gating in the PFC; LSTMs; The differentiable neural computer; The problem of continual learning
     - [Watch video of lecture 5](https://archive.org/details/htbabfs-lecture-5){:target="_blank"}
-    - [Watch lecture 5 appendix](https://archive.org/details/lecture5-appendix){:target="_blank"}
+    - [Watch lecture 5 appendix](https://archive.org/details/lecture5_appendix){:target="_blank"}
 
 - ![Lecture 6: Complementary learning systems theory](/assets/images/teaching/screenshot-2020-01-29-at-08.35.03.png)
     - Lecture 6: Complementary learning systems theory
