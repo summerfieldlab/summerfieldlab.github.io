@@ -29,10 +29,6 @@ Postdocs and Fellows:
     bio: "completed her PhD with Chris and [Miriam Klein-Flugge](https://www.modeslab.org/) here in Oxford"
     img: /assets/images/people/screenshot-2021-09-19-at-14.13.34.png
 
-  - name: Csaba Botos
-    bio: "[Csabi](https://botcs.github.io/academic/) completed his PhD with [Phil Torr](https://eng.ox.ac.uk/people/philip-torr), and is an [Encode](https://encode.pillar.vc/the-program) fellow jointly with [Rui Ponte Costa](https://www.dpag.ox.ac.uk/team/rui-ponte-costa) "
-    img: /assets/images/people/screenshot-2026-01-27-at-09.29.38.png
-
   - name: Lennart Wachowiak
     bio: "[Lennart](https://lwachowiak.github.io/) completed his PhD at King's College London and Imperial College, and was previously a Cambridge ERA:AI research fellow."
     img: /assets/images/people/lennart.jpg
@@ -229,4 +225,8 @@ Alumni (Postdocs):
 
   - name: Franziska Braendle
     bio: "Franziska in now an Assistant Professor in [Giesen](https://scholar.google.com/citations?user=YpOG-FoAAAAJ&hl=de)."
-    img: /assets/images/people/screenshot-2024-09-24-at-09.40.15.png   
+    img: /assets/images/people/screenshot-2024-09-24-at-09.40.15.png 
+
+  - name: Csaba Botos
+    bio: "[Csabi](https://botcs.github.io/academic/) is now a Research Scientist at DeepMind "
+    img: /assets/images/people/screenshot-2026-01-27-at-09.29.38.png
