@@ -11,6 +11,9 @@ Lecture 6 discusses the rise of AI systems with socioaffective design features. 
 
 [Download Lecture 6 slides (PowerPoint, 11MB)](/assets/presentations/aics/AICS_lecture_6.pptx)
 
+[Watch Lecture 6 video](http://archive.org/details/aics-lecture-6)
+
+
 ### What you need to understand:
 
 1. The intentional Stance
