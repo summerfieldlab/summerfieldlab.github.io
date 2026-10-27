@@ -11,6 +11,9 @@ In the final lecture, we discuss the systemic impacts of AI. We consider how AI 
 
 [Download Lecture 8 slides (PowerPoint, 9.2MB)](/assets/presentations/aics/AICS_lecture_8.pptx)
 
+[Watch Lecture 8 video](http://archive.org/details/aics-lecture-8)
+
+
 ### What you need to understand:
 
 1. Systemic vs. acute risks
