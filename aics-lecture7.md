@@ -11,6 +11,9 @@ In lecture 7 we consider the balance of power between humans and AI systems. We 
 
 [Download Lecture 7 slides (PowerPoint, 11MB)](/assets/presentations/aics/AICS_lecture_7.pptx)
 
+[Watch Lecture 7 video](http://archive.org/details/aics-lecture-7)
+
+
 ### What you need to understand:
 
 1. Empowerment
