@@ -11,6 +11,8 @@ Lecture 5 discusses how the widespread availability of AI content is changing th
 
 [Download Lecture 5 slides (PowerPoint, 40MB)](/assets/presentations/aics/AICS_lecture_5.pptx)
 
+[Watch Lecture 5 video](http://archive.org/details/aics-lecture-5)
+
 ### What you need to understand:
 
 1. Deepfakes and AI disclosure
