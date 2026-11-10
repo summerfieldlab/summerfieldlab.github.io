@@ -11,7 +11,7 @@ This advanced option course discusses the search for a general theory of learnin
 - ![Lecture 1: Building and understanding brains.](/assets/images/teaching/screenshot-2024-10-15-at-09.09.46.png)
     - Lecture 1: A brief history of AI
     - Introduction; A history of intelligent machines; symbolic AI; the computational approach to mind and brain; deep neural networks; statistical approaches to language modelling and LLMs.
-    - [Watch video of lecture 1 (2024)](https://archive.org/details/htbabfs-lecture1-2024){:target="_blank"}
+    - [Watch video of lecture 1 (2024)](https://archive.org/details/lecture1_2024){:target="_blank"}
     - [Watch OLD video of lecture 1 (2021)](https://archive.org/details/htbabfs-lecture-1){:target="_blank"}
 
 - ![Lecture 2: Model-free reinforcement learning](/assets/images/teaching/screenshot-2020-01-29-at-08.32.59.png)
